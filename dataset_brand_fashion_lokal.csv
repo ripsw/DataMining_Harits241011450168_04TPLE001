@@ -1,0 +1,1501 @@
+Usia,Domisili,Channel_Pembelian,Kategori_Produk,Harga_Produk_Rp,Persen_Diskon,Jumlah_Item,Produk_Edisi_Terbatas,Anggota_Member,Jumlah_Pembelian_Sebelumnya,Waktu_Pengiriman_Hari,Rating_Pembeli,Beli_Ulang
+26.0,Depok,Shopee,Jaket,456000,10,2,Tidak,Tidak,1,6,3.0,Tidak
+32.0,Jakarta,Website,Hoodie,409000,0,4,Tidak,Tidak,3,5,4.0,Ya
+16.0,Tangerang,Instagram,Celana,355000,20,2,Tidak,Ya,3,6,4.0,Ya
+32.0,Tangerang,Toko Offline,Celana,328000,20,2,Tidak,Tidak,1,4,,Tidak
+24.0,Tangerang,TikTok Shop,Kaos,197000,20,4,Tidak,Tidak,0,6,4.0,Tidak
+20.0,Depok,Tokopedia,Celana,340000,0,2,Tidak,Tidak,1,4,3.0,Tidak
+20.0,Luar Jabodetabek,Website,Kaos,166000,10,1,Ya,Tidak,1,4,2.0,Tidak
+19.0,Luar Jabodetabek,TikTok Shop,Topi,159000,20,1,Ya,Tidak,0,5,4.0,Tidak
+23.0,Luar Jabodetabek,Instagram,Kaos,167000,20,1,Tidak,Tidak,3,4,4.0,Tidak
+28.0,Bekasi,TikTok Shop,Kaos,143000,10,2,Tidak,Ya,2,7,4.0,Tidak
+27.0,Jakarta,Website,Hoodie,426000,50,1,Tidak,Ya,0,2,5.0,Ya
+27.0,Jakarta,Instagram,Kaos,214000,0,1,Tidak,Tidak,2,4,5.0,Ya
+16.0,Bogor,Shopee,Topi,164000,0,4,Tidak,Tidak,3,5,4.0,Ya
+16.0,Luar Jabodetabek,TikTok Shop,Jaket,449000,10,4,Tidak,Tidak,2,6,5.0,Ya
+32.0,Luar Jabodetabek,Shopee,Jaket,427000,30,2,Tidak,Tidak,3,2,4.0,Ya
+29.0,Jakarta,Shopee,Kemeja,302000,0,2,Ya,Tidak,2,4,4.0,Tidak
+35.0,Tangerang,TikTok Shop,Topi,119000,0,1,Tidak,Ya,3,3,5.0,Ya
+30.0,Luar Jabodetabek,Instagram,Kaos,169000,0,1,Tidak,Tidak,0,4,3.0,Tidak
+19.0,Tangerang,Instagram,Kaos,187000,20,3,Tidak,Ya,1,6,5.0,Ya
+30.0,Bandung,Tokopedia,Kaos,143000,0,3,Tidak,Ya,0,4,2.0,Tidak
+27.0,Luar Jabodetabek,Shopee,Tas,234000,0,3,Tidak,Tidak,1,2,5.0,Ya
+25.0,Tangerang,Shopee,Tas,263000,0,4,Tidak,Tidak,3,4,4.0,Tidak
+20.0,Bekasi,Instagram,Kemeja,248000,0,3,Ya,Tidak,0,4,5.0,Ya
+24.0,Tangerang,Shopee,Kaos,164000,0,2,Ya,Tidak,1,3,5.0,Ya
+23.0,Bogor,Website,Kaos,187000,20,3,Ya,Tidak,8,6,4.0,Ya
+28.0,Jakarta,Shopee,Kaos,157000,50,1,Tidak,Ya,2,2,5.0,Ya
+,Luar Jabodetabek,Tokopedia,Kemeja,320000,0,3,Tidak,Tidak,3,2,4.0,Ya
+32.0,Bekasi,Instagram,Kemeja,335000,30,2,Tidak,Tidak,5,2,5.0,Ya
+20.0,Tangerang,Instagram,Celana,355000,50,4,Ya,Tidak,4,1,4.0,Ya
+26.0,Bekasi,Tokopedia,Kaos,186000,20,1,Tidak,Tidak,1,2,4.0,Ya
+26.0,Tangerang,TikTok Shop,Tas,266000,0,3,Tidak,Tidak,1,2,4.0,Tidak
+20.0,Jakarta,Instagram,Jaket,472000,0,3,Ya,Ya,2,1,4.0,Ya
+18.0,Tangerang,TikTok Shop,Topi,92000,0,4,Tidak,Tidak,0,3,5.0,Tidak
+29.0,Jakarta,TikTok Shop,Hoodie,388000,0,1,Ya,Tidak,0,4,4.0,Tidak
+27.0,Bandung,TikTok Shop,Kaos,153000,10,2,Tidak,Tidak,5,5,4.0,Ya
+23.0,Bandung,TikTok Shop,Kaos,148000,10,3,Ya,Tidak,5,2,4.0,Ya
+26.0,Bandung,Instagram,Hoodie,433000,20,3,Tidak,Tidak,2,4,5.0,Ya
+21.0,Jakarta,Tokopedia,Hoodie,404000,20,1,Ya,Tidak,3,2,4.0,Ya
+25.0,Luar Jabodetabek,Instagram,Celana,306000,10,1,Tidak,Ya,1,4,5.0,Tidak
+21.0,Jakarta,Website,Hoodie,349000,0,4,Tidak,Tidak,1,4,4.0,Tidak
+25.0,Bekasi,TikTok Shop,Hoodie,415000,30,1,Tidak,Ya,4,4,3.0,Ya
+29.0,Bekasi,Shopee,Tas,273000,0,4,Ya,Tidak,0,3,5.0,Tidak
+22.0,Tangerang,TikTok Shop,Kemeja,290000,0,4,Tidak,Tidak,3,2,3.0,Ya
+28.0,Tangerang,Shopee,Tas,259000,30,2,Tidak,Ya,1,2,5.0,Ya
+19.0,Bogor,Website,Kaos,184000,20,3,Ya,Ya,1,4,5.0,Ya
+23.0,Jakarta,TikTok Shop,Tas,288000,0,1,Tidak,Tidak,4,2,5.0,Ya
+17.0,Bekasi,Tokopedia,Kaos,122000,30,4,Ya,Ya,4,4,3.0,Ya
+23.0,Bandung,Toko Offline,Hoodie,388000,10,2,Ya,Ya,3,5,4.0,Ya
+24.0,Depok,Tokopedia,Hoodie,390000,10,2,Tidak,Ya,2,5,4.0,Tidak
+23.0,Luar Jabodetabek,Toko Offline,Hoodie,369000,0,2,Ya,Tidak,1,1,5.0,Ya
+23.0,Tangerang,Shopee,Kemeja,283000,0,3,Ya,Ya,1,3,3.0,Tidak
+31.0,Bekasi,Instagram,Hoodie,444000,10,1,Tidak,Tidak,0,3,4.0,Tidak
+31.0,Jakarta,Toko Offline,Topi,110000,20,2,Tidak,Tidak,1,6,5.0,Ya
+18.0,Tangerang,Website,Jaket,447000,0,3,Ya,Tidak,0,4,4.0,Tidak
+30.0,Jakarta,Shopee,Hoodie,433000,30,4,Tidak,Ya,5,2,5.0,Ya
+16.0,Jakarta,Website,Celana,362000,0,2,Tidak,Tidak,0,3,4.0,Tidak
+,Bogor,Instagram,Kaos,208000,0,1,Tidak,Tidak,2,7,5.0,Ya
+23.0,Jakarta,Website,Kaos,179000,0,1,Tidak,Ya,0,7,4.0,Tidak
+25.0,Depok,Website,Kaos,190000,0,3,Tidak,Tidak,2,4,4.0,Ya
+19.0,Bandung,Toko Offline,Kaos,240000,20,4,Tidak,Ya,1,5,4.0,Ya
+20.0,Jakarta,Shopee,Celana,288000,0,3,Tidak,Tidak,4,3,2.0,Tidak
+24.0,Jakarta,Instagram,Kaos,117000,0,3,Tidak,Ya,2,5,4.0,Tidak
+21.0,Luar Jabodetabek,Instagram,Kaos,158000,30,2,Ya,Ya,1,3,5.0,Ya
+21.0,Tangerang,Tokopedia,Hoodie,395000,30,1,Tidak,Tidak,3,3,5.0,Ya
+27.0,Tangerang,Instagram,Celana,350000,0,1,Tidak,Tidak,4,3,3.0,Tidak
+29.0,Luar Jabodetabek,Website,Tas,253000,30,4,Tidak,Tidak,3,2,3.0,Ya
+24.0,Bekasi,TikTok Shop,Jaket,412000,30,2,Tidak,Ya,1,5,4.0,Tidak
+24.0,Bekasi,Shopee,Kaos,160000,20,3,Ya,Ya,2,4,5.0,Ya
+24.0,Depok,Shopee,Tas,282000,10,2,Ya,Tidak,1,1,5.0,Ya
+22.0,Tangerang,Tokopedia,Kemeja,289000,0,1,Tidak,Ya,1,8,5.0,Tidak
+21.0,Tangerang,Website,Kaos,171000,20,1,Tidak,Tidak,1,4,5.0,Ya
+19.0,Luar Jabodetabek,Tokopedia,Kaos,200000,10,1,Tidak,Ya,2,3,3.0,Tidak
+27.0,Bekasi,Shopee,Kaos,151000,0,1,Ya,Tidak,3,5,5.0,Ya
+24.0,Jakarta,Shopee,Kaos,151000,20,3,Tidak,Tidak,0,4,4.0,Tidak
+23.0,Luar Jabodetabek,Tokopedia,Celana,326000,10,1,Tidak,Tidak,0,5,5.0,Tidak
+25.0,Luar Jabodetabek,Toko Offline,Hoodie,409000,0,4,Tidak,Ya,2,3,3.0,Ya
+27.0,Bandung,Shopee,Celana,370000,0,4,Tidak,Tidak,0,5,4.0,Tidak
+31.0,Luar Jabodetabek,Website,Jaket,447000,10,1,Ya,Tidak,2,1,4.0,Ya
+23.0,Jakarta,Website,Celana,351000,0,2,Tidak,Ya,2,4,4.0,Ya
+22.0,Bandung,Tokopedia,Jaket,499000,10,4,Tidak,Ya,3,3,5.0,Ya
+25.0,Tangerang,Shopee,Jaket,491000,30,3,Tidak,Ya,0,8,4.0,Tidak
+20.0,Tangerang,Toko Offline,Kaos,168000,0,1,Tidak,Ya,0,3,3.0,Ya
+30.0,Bogor,Instagram,Kemeja,314000,0,4,Tidak,Tidak,1,3,5.0,Ya
+29.0,Jakarta,TikTok Shop,Kaos,133000,0,1,Ya,Tidak,3,3,5.0,Ya
+27.0,Depok,Shopee,Kaos,170000,0,1,Ya,Tidak,1,4,4.0,Tidak
+23.0,Depok,Toko Offline,Hoodie,413000,30,2,Tidak,Ya,0,4,3.0,Tidak
+28.0,Luar Jabodetabek,Instagram,Kaos,220000,50,4,Ya,Ya,1,4,4.0,Ya
+29.0,Luar Jabodetabek,Instagram,Topi,155000,10,2,Ya,Tidak,3,6,4.0,Tidak
+26.0,Bogor,Tokopedia,Kaos,222000,0,3,Ya,Ya,1,2,5.0,Ya
+23.0,Bandung,Instagram,Kaos,198000,0,4,Ya,Tidak,3,3,4.0,Ya
+16.0,Tangerang,Shopee,Topi,168000,0,4,Tidak,Tidak,2,2,5.0,Ya
+29.0,Bandung,Shopee,Kaos,200000,0,1,Ya,Ya,4,3,4.0,Ya
+22.0,Tangerang,Toko Offline,Hoodie,358000,0,1,Tidak,Tidak,3,6,4.0,Ya
+20.0,Bekasi,Tokopedia,Jaket,474000,0,2,Tidak,Tidak,0,3,4.0,Tidak
+28.0,Luar Jabodetabek,Tokopedia,Hoodie,398000,0,2,Tidak,Tidak,2,4,5.0,Tidak
+26.0,Depok,Website,Celana,343000,0,4,Tidak,Tidak,1,5,5.0,Ya
+17.0,Luar Jabodetabek,TikTok Shop,Celana,343000,30,4,Ya,Tidak,3,3,5.0,Ya
+24.0,Tangerang,Website,Kemeja,283000,20,3,Ya,Tidak,2,3,,Ya
+23.0,Bogor,Website,Kaos,161000,0,3,Tidak,Tidak,1,7,5.0,Ya
+29.0,Bandung,TikTok Shop,Kaos,181000,30,2,Ya,Ya,1,7,5.0,Tidak
+16.0,Tangerang,Shopee,Kemeja,282000,0,1,Tidak,Tidak,1,3,5.0,Ya
+22.0,Jakarta,Shopee,Hoodie,400000,30,3,Tidak,Ya,2,2,3.0,Ya
+23.0,Depok,Instagram,Celana,334000,0,4,Tidak,Ya,2,4,4.0,Ya
+31.0,Jakarta,TikTok Shop,Hoodie,380000,20,3,Tidak,Tidak,1,5,4.0,Tidak
+19.0,Jakarta,Tokopedia,Kaos,166000,10,4,Ya,Tidak,1,6,5.0,Tidak
+16.0,Jakarta,TikTok Shop,Kemeja,278000,20,4,Ya,Tidak,1,5,4.0,Ya
+17.0,Bandung,Toko Offline,Celana,339000,20,2,Ya,Tidak,0,2,4.0,Ya
+25.0,Depok,Shopee,Tas,265000,50,1,Tidak,Tidak,1,1,5.0,Ya
+28.0,Bandung,TikTok Shop,Tas,301000,0,3,Tidak,Tidak,2,6,5.0,Tidak
+33.0,Depok,Instagram,Kaos,157000,0,3,Ya,Tidak,0,6,5.0,Tidak
+26.0,Bekasi,Toko Offline,Kaos,187000,0,3,Ya,Tidak,2,3,5.0,Ya
+20.0,Jakarta,TikTok Shop,Kaos,184000,0,1,Tidak,Tidak,1,1,5.0,Ya
+28.0,Luar Jabodetabek,Shopee,Kaos,133000,20,1,Ya,Tidak,2,2,5.0,Ya
+24.0,Luar Jabodetabek,Instagram,Hoodie,395000,30,3,Ya,Ya,3,5,5.0,Ya
+23.0,Bandung,Website,Tas,340000,0,3,Ya,Ya,0,4,4.0,Ya
+24.0,Bandung,Shopee,Tas,291000,10,3,Ya,Ya,0,3,5.0,Ya
+30.0,Tangerang,TikTok Shop,Celana,321000,0,1,Tidak,Ya,1,2,4.0,Ya
+19.0,Bogor,Shopee,Topi,159000,0,3,Ya,Ya,1,1,4.0,Ya
+19.0,Luar Jabodetabek,Toko Offline,Kaos,153000,0,3,Ya,Ya,1,1,4.0,Ya
+24.0,Bekasi,Instagram,Kaos,165000,0,4,Tidak,Tidak,2,2,3.0,Ya
+24.0,Tangerang,Toko Offline,Jaket,477000,0,2,Tidak,Tidak,1,4,4.0,Tidak
+20.0,Tangerang,Shopee,Kaos,194000,20,3,Tidak,Tidak,1,3,4.0,Ya
+20.0,Jakarta,Instagram,Kemeja,287000,10,3,Tidak,Ya,2,2,4.0,Ya
+26.0,Bandung,Shopee,Hoodie,390000,10,1,Tidak,Ya,0,3,5.0,Ya
+31.0,Bogor,Website,Topi,136000,30,1,Ya,Ya,1,1,4.0,Ya
+28.0,Tangerang,Instagram,Kaos,190000,20,4,Tidak,Tidak,2,3,4.0,Ya
+27.0,Bogor,Instagram,Kemeja,323000,10,4,Tidak,Tidak,0,3,5.0,Ya
+30.0,Depok,Website,Jaket,437000,0,3,Tidak,Tidak,2,3,4.0,Ya
+16.0,Bogor,Website,Tas,259000,10,4,Tidak,Ya,1,5,5.0,Ya
+16.0,Bekasi,Shopee,Kemeja,265000,0,3,Tidak,Tidak,1,3,4.0,Tidak
+20.0,Bandung,Shopee,Kaos,144000,20,2,Tidak,Tidak,1,5,4.0,Tidak
+18.0,Luar Jabodetabek,Instagram,Kaos,206000,10,2,Tidak,Tidak,0,1,5.0,Ya
+19.0,Jakarta,TikTok Shop,Hoodie,389000,0,4,Ya,Ya,3,1,5.0,Ya
+24.0,Tangerang,Shopee,Hoodie,337000,20,3,Ya,Tidak,2,1,5.0,Ya
+18.0,Bekasi,Instagram,Kaos,207000,0,4,Tidak,Tidak,0,6,4.0,Tidak
+22.0,Luar Jabodetabek,Toko Offline,Kaos,201000,10,1,Ya,Tidak,3,2,4.0,Ya
+16.0,Depok,Instagram,Kaos,173000,0,2,Tidak,Tidak,1,4,3.0,Tidak
+19.0,Bandung,Shopee,Hoodie,440000,0,1,Ya,Ya,1,2,5.0,Ya
+31.0,Bandung,Tokopedia,Tas,296000,20,4,Tidak,Ya,1,8,4.0,Tidak
+21.0,Tangerang,Website,Topi,114000,10,4,Tidak,Tidak,2,3,4.0,Ya
+26.0,Luar Jabodetabek,Shopee,Tas,272000,10,4,Ya,Tidak,0,1,4.0,Ya
+28.0,Luar Jabodetabek,Toko Offline,Topi,146000,10,2,Tidak,Tidak,2,6,5.0,Tidak
+22.0,Tangerang,Toko Offline,Tas,292000,10,4,Tidak,Tidak,1,8,5.0,Tidak
+27.0,Jakarta,Website,Kaos,161000,0,3,Tidak,Ya,1,3,4.0,Ya
+25.0,Depok,Website,Kaos,129000,20,3,Ya,Tidak,0,6,5.0,Ya
+27.0,Depok,TikTok Shop,Jaket,451000,0,2,Tidak,Tidak,1,5,2.0,Tidak
+21.0,Bandung,Shopee,Hoodie,429000,0,4,Tidak,Ya,0,3,4.0,Tidak
+17.0,Tangerang,Shopee,Tas,229000,30,3,Tidak,Tidak,1,1,3.0,Tidak
+19.0,Depok,Shopee,Topi,129000,10,2,Ya,Tidak,0,3,4.0,Tidak
+21.0,Bandung,Website,Tas,226000,0,2,Tidak,Tidak,1,6,4.0,Tidak
+27.0,Jakarta,TikTok Shop,Topi,125000,0,2,Tidak,Tidak,2,7,5.0,Tidak
+23.0,Jakarta,Tokopedia,Celana,321000,0,4,Tidak,Ya,2,3,5.0,Tidak
+22.0,Jakarta,Instagram,Kaos,145000,50,3,Tidak,Tidak,0,3,2.0,Tidak
+23.0,Bogor,Tokopedia,Hoodie,399000,0,4,Tidak,Tidak,2,4,4.0,Ya
+29.0,Luar Jabodetabek,Instagram,Kaos,134000,0,1,Tidak,Tidak,1,4,5.0,Ya
+21.0,Bekasi,Tokopedia,Jaket,431000,20,2,Tidak,Tidak,1,4,3.0,Tidak
+32.0,Jakarta,TikTok Shop,Kemeja,307000,0,1,Tidak,Tidak,5,2,5.0,Ya
+18.0,Jakarta,Shopee,Kaos,180000,0,2,Tidak,Tidak,3,4,3.0,Tidak
+21.0,Bekasi,Instagram,Jaket,487000,0,2,Ya,Tidak,2,5,3.0,Tidak
+28.0,Jakarta,Shopee,Tas,256000,10,2,Tidak,Tidak,0,4,4.0,Tidak
+27.0,Bandung,Instagram,Kaos,204000,30,4,Ya,Ya,1,1,5.0,Ya
+20.0,Tangerang,TikTok Shop,Hoodie,394000,10,3,Tidak,Tidak,0,3,5.0,Tidak
+23.0,Jakarta,TikTok Shop,Hoodie,364000,20,4,Tidak,Tidak,3,4,5.0,Ya
+20.0,Bekasi,Tokopedia,Tas,277000,20,4,Ya,Ya,4,4,4.0,Ya
+28.0,Tangerang,Website,Celana,349000,0,2,Ya,Tidak,0,1,5.0,Ya
+27.0,Jakarta,Shopee,Kaos,172000,0,4,Tidak,Tidak,1,4,3.0,Tidak
+20.0,Tangerang,Tokopedia,Kaos,182000,30,1,Tidak,Tidak,2,4,4.0,Ya
+26.0,Tangerang,Instagram,Kaos,191000,30,4,Tidak,Ya,1,1,5.0,Ya
+22.0,Depok,Website,Kaos,127000,50,3,Tidak,Tidak,1,2,4.0,Ya
+24.0,Luar Jabodetabek,Tokopedia,Kaos,185000,20,1,Ya,Tidak,2,5,5.0,Ya
+24.0,Bogor,Website,Celana,342000,0,3,Ya,Tidak,0,6,3.0,Tidak
+21.0,Tangerang,Instagram,Kaos,172000,10,2,Tidak,Tidak,1,4,5.0,Ya
+26.0,Depok,Shopee,Kemeja,322000,50,4,Tidak,Tidak,0,6,4.0,Tidak
+26.0,Tangerang,Website,Kaos,183000,10,2,Tidak,Tidak,1,2,5.0,Ya
+26.0,Luar Jabodetabek,Instagram,Kaos,140000,0,1,Tidak,Ya,1,4,5.0,Ya
+30.0,Jakarta,Website,Hoodie,374000,0,1,Tidak,Tidak,2,2,5.0,Ya
+23.0,Bekasi,Shopee,Hoodie,389000,0,4,Ya,Tidak,0,5,4.0,Ya
+17.0,Jakarta,Toko Offline,Tas,264000,20,4,Tidak,Ya,1,5,4.0,Ya
+22.0,Luar Jabodetabek,Shopee,Jaket,474000,30,1,Ya,Tidak,2,4,4.0,Tidak
+25.0,Tangerang,Shopee,Jaket,468000,20,4,Tidak,Tidak,3,3,4.0,Ya
+24.0,Luar Jabodetabek,Tokopedia,Kemeja,253000,30,3,Ya,Ya,2,1,4.0,Ya
+27.0,Luar Jabodetabek,Tokopedia,Hoodie,411000,50,3,Tidak,Tidak,2,2,4.0,Ya
+28.0,Luar Jabodetabek,Tokopedia,Kaos,225000,0,3,Tidak,Ya,0,3,5.0,Tidak
+23.0,Luar Jabodetabek,Website,Kaos,216000,10,2,Tidak,Tidak,3,2,,Ya
+23.0,Jakarta,Instagram,Hoodie,395000,0,4,Ya,Ya,3,5,5.0,Ya
+19.0,Bekasi,Instagram,Celana,311000,10,2,Ya,Tidak,2,5,4.0,Ya
+29.0,Luar Jabodetabek,Shopee,Hoodie,345000,0,3,Tidak,Ya,2,5,4.0,Tidak
+23.0,Luar Jabodetabek,TikTok Shop,Kemeja,299000,0,2,Tidak,Tidak,0,1,4.0,Tidak
+19.0,Luar Jabodetabek,TikTok Shop,Celana,340000,10,2,Tidak,Tidak,1,3,5.0,Ya
+18.0,Jakarta,Toko Offline,Celana,308000,0,3,Ya,Ya,3,2,4.0,Ya
+22.0,Luar Jabodetabek,TikTok Shop,Jaket,439000,30,4,Ya,Tidak,1,4,3.0,Tidak
+32.0,Jakarta,Shopee,Kaos,213000,20,1,Ya,Tidak,2,4,5.0,Ya
+28.0,Jakarta,Shopee,Kaos,179000,0,3,Ya,Tidak,3,6,5.0,Ya
+16.0,Bogor,Shopee,Hoodie,423000,10,4,Ya,Ya,1,4,5.0,Ya
+23.0,Bekasi,Website,Kaos,179000,50,3,Ya,Tidak,0,5,5.0,Ya
+25.0,Bekasi,TikTok Shop,Kemeja,262000,0,1,Tidak,Tidak,2,2,5.0,Ya
+27.0,Depok,Tokopedia,Kaos,199000,20,2,Tidak,Ya,2,8,5.0,Tidak
+26.0,Tangerang,Website,Kaos,183000,0,3,Tidak,Ya,1,5,2.0,Tidak
+21.0,Depok,Tokopedia,Jaket,468000,0,3,Ya,Ya,3,5,4.0,Ya
+26.0,Tangerang,Instagram,Celana,318000,50,3,Tidak,Tidak,2,4,4.0,Ya
+21.0,Jakarta,Instagram,Tas,264000,0,1,Tidak,Ya,2,4,4.0,Ya
+16.0,Bekasi,TikTok Shop,Hoodie,402000,10,3,Tidak,Tidak,3,3,5.0,Ya
+20.0,Luar Jabodetabek,TikTok Shop,Kaos,220000,0,3,Tidak,Tidak,1,4,3.0,Tidak
+21.0,Bekasi,Tokopedia,Kaos,197000,0,2,Ya,Tidak,3,3,4.0,Ya
+29.0,Bogor,Website,Hoodie,417000,10,2,Tidak,Tidak,0,4,3.0,Tidak
+29.0,Tangerang,Instagram,Hoodie,384000,0,2,Ya,Tidak,1,1,3.0,Ya
+19.0,Tangerang,TikTok Shop,Kaos,220000,20,4,Ya,Ya,1,3,4.0,Ya
+25.0,Bandung,Instagram,Kaos,188000,0,3,Ya,Tidak,0,5,5.0,Tidak
+24.0,Depok,Shopee,Celana,355000,50,4,Tidak,Tidak,3,5,2.0,Tidak
+17.0,Bandung,Shopee,Celana,361000,30,4,Tidak,Ya,0,4,5.0,Ya
+16.0,Bogor,Instagram,Hoodie,378000,10,3,Tidak,Ya,3,1,4.0,Ya
+24.0,Tangerang,Shopee,Hoodie,395000,20,3,Tidak,Tidak,1,3,4.0,Tidak
+25.0,Bandung,Website,Kemeja,308000,0,1,Tidak,Ya,2,5,5.0,Ya
+21.0,Bogor,Instagram,Hoodie,412000,10,4,Tidak,Tidak,1,2,5.0,Ya
+16.0,Luar Jabodetabek,Instagram,Jaket,427000,0,4,Ya,Tidak,0,5,5.0,Ya
+24.0,Bandung,Tokopedia,Celana,313000,20,3,Ya,Tidak,3,3,4.0,Ya
+21.0,Bekasi,Shopee,Tas,231000,50,2,Tidak,Ya,0,6,5.0,Ya
+20.0,Luar Jabodetabek,Shopee,Hoodie,363000,0,3,Ya,Tidak,1,1,5.0,Ya
+22.0,Tangerang,Website,Kemeja,304000,10,4,Tidak,Ya,2,5,4.0,Ya
+18.0,Jakarta,Shopee,Kaos,222000,20,2,Tidak,Tidak,4,6,4.0,Ya
+27.0,Jakarta,Website,Kaos,185000,10,1,Ya,Tidak,2,2,5.0,Ya
+24.0,Jakarta,Shopee,Kaos,191000,50,1,Ya,Tidak,0,6,3.0,Tidak
+21.0,Bekasi,Shopee,Kemeja,353000,20,4,Tidak,Tidak,1,5,4.0,Tidak
+25.0,Depok,Tokopedia,Topi,135000,30,4,Tidak,Tidak,0,5,5.0,Tidak
+24.0,Tangerang,Toko Offline,Jaket,418000,30,2,Tidak,Tidak,2,3,5.0,Ya
+16.0,Luar Jabodetabek,Shopee,Kaos,223000,0,2,Ya,Tidak,1,2,4.0,Ya
+23.0,Luar Jabodetabek,Website,Kaos,190000,0,1,Tidak,Ya,0,4,5.0,Ya
+22.0,Bogor,Instagram,Jaket,452000,10,3,Ya,Tidak,0,3,5.0,Ya
+16.0,Tangerang,Instagram,Kaos,180000,0,4,Tidak,Tidak,3,5,5.0,Ya
+21.0,Depok,Toko Offline,Hoodie,433000,50,3,Tidak,Ya,0,1,4.0,Ya
+26.0,Jakarta,Website,Kaos,168000,30,2,Tidak,Tidak,0,1,4.0,Tidak
+21.0,Tangerang,Instagram,Kaos,202000,10,4,Ya,Tidak,0,7,3.0,Tidak
+31.0,Jakarta,Toko Offline,Topi,126000,50,2,Tidak,Ya,1,3,3.0,Ya
+32.0,Tangerang,Shopee,Jaket,409000,20,1,Tidak,Tidak,1,2,2.0,Tidak
+22.0,Depok,Website,Kaos,182000,0,1,Ya,Tidak,1,5,4.0,Tidak
+27.0,Tangerang,Instagram,Hoodie,404000,20,1,Tidak,Ya,4,4,4.0,Ya
+34.0,Jakarta,Shopee,Kaos,187000,0,4,Ya,Tidak,2,1,5.0,Ya
+22.0,Tangerang,Shopee,Kaos,156000,10,2,Tidak,Ya,6,3,4.0,Ya
+20.0,Bekasi,Shopee,Kaos,150000,20,1,Tidak,Ya,1,4,5.0,Ya
+22.0,Tangerang,TikTok Shop,Jaket,444000,30,4,Tidak,Ya,3,2,4.0,Ya
+17.0,Luar Jabodetabek,Instagram,Kaos,209000,10,1,Tidak,Tidak,0,5,5.0,Ya
+17.0,Luar Jabodetabek,Shopee,Hoodie,417000,0,2,Tidak,Ya,4,2,3.0,Ya
+25.0,Tangerang,Website,Topi,158000,0,4,Tidak,Tidak,2,4,5.0,Ya
+22.0,Tangerang,Shopee,Tas,292000,10,4,Ya,Ya,2,2,5.0,Ya
+25.0,Jakarta,Toko Offline,Celana,357000,0,4,Ya,Ya,2,5,5.0,Ya
+26.0,Jakarta,Toko Offline,Kaos,149000,30,1,Ya,Ya,1,6,4.0,Ya
+20.0,Bekasi,Tokopedia,Celana,331000,0,3,Tidak,Tidak,2,6,4.0,Ya
+23.0,Tangerang,Shopee,Kaos,200000,30,2,Tidak,Tidak,5,1,5.0,Ya
+23.0,Bogor,Website,Hoodie,427000,20,3,Tidak,Ya,3,5,4.0,Ya
+21.0,Luar Jabodetabek,Instagram,Kaos,205000,20,3,Ya,Tidak,2,1,5.0,Ya
+20.0,Luar Jabodetabek,Tokopedia,Celana,337000,0,2,Tidak,Ya,2,3,5.0,Ya
+26.0,Depok,Shopee,Kaos,148000,10,3,Tidak,Tidak,3,4,5.0,Ya
+23.0,Bekasi,Shopee,Tas,277000,0,3,Tidak,Tidak,1,3,4.0,Tidak
+26.0,Bogor,Website,Tas,301000,0,1,Tidak,Tidak,0,6,,Tidak
+29.0,Jakarta,Instagram,Kemeja,279000,30,3,Ya,Ya,1,5,5.0,Ya
+29.0,Luar Jabodetabek,Instagram,Hoodie,372000,20,4,Ya,Tidak,5,3,5.0,Ya
+18.0,Bandung,Website,Jaket,408000,0,4,Tidak,Tidak,2,4,4.0,Tidak
+20.0,Bekasi,TikTok Shop,Kaos,186000,0,4,Tidak,Tidak,3,2,4.0,Ya
+23.0,Tangerang,Website,Kaos,178000,30,2,Tidak,Ya,1,3,5.0,Ya
+25.0,Bekasi,Shopee,Topi,156000,50,2,Ya,Tidak,1,4,5.0,Ya
+29.0,Tangerang,Shopee,Kaos,236000,0,3,Tidak,Tidak,1,4,4.0,Tidak
+19.0,Jakarta,Toko Offline,Kemeja,325000,0,4,Ya,Tidak,3,9,4.0,Tidak
+22.0,Luar Jabodetabek,TikTok Shop,Kaos,192000,10,1,Tidak,Tidak,0,1,5.0,Tidak
+25.0,Tangerang,Instagram,Kaos,221000,0,2,Ya,Tidak,0,5,4.0,Tidak
+30.0,Jakarta,Toko Offline,Hoodie,401000,30,1,Tidak,Tidak,2,1,4.0,Tidak
+31.0,Depok,TikTok Shop,Jaket,464000,0,2,Tidak,Ya,3,5,5.0,Ya
+19.0,Luar Jabodetabek,TikTok Shop,Kaos,179000,20,3,Ya,Tidak,2,2,5.0,Ya
+23.0,Luar Jabodetabek,TikTok Shop,Topi,161000,50,2,Tidak,Tidak,2,6,3.0,Tidak
+20.0,Jakarta,Toko Offline,Celana,301000,0,2,Tidak,Tidak,1,3,3.0,Tidak
+28.0,Luar Jabodetabek,TikTok Shop,Kaos,170000,0,3,Tidak,Tidak,3,5,5.0,Ya
+26.0,Depok,Tokopedia,Jaket,428000,10,1,Ya,Tidak,3,2,4.0,Ya
+22.0,Bandung,Shopee,Tas,232000,0,2,Tidak,Ya,1,5,5.0,Ya
+21.0,Tangerang,Tokopedia,Celana,286000,10,2,Ya,Tidak,0,3,5.0,Ya
+25.0,Bandung,TikTok Shop,Kaos,138000,20,4,Ya,Tidak,4,1,5.0,Ya
+29.0,Jakarta,Instagram,Jaket,406000,50,1,Tidak,Tidak,0,3,4.0,Tidak
+20.0,Jakarta,TikTok Shop,Kaos,207000,0,2,Tidak,Ya,1,3,5.0,Ya
+22.0,Depok,Tokopedia,Kaos,221000,0,1,Tidak,Tidak,1,5,5.0,Tidak
+25.0,Bekasi,Shopee,Kaos,219000,0,1,Ya,Tidak,1,5,4.0,Tidak
+24.0,Tangerang,Shopee,Kaos,188000,30,2,Tidak,Tidak,0,3,5.0,Tidak
+26.0,Bekasi,Tokopedia,Tas,272000,20,1,Ya,Ya,4,7,4.0,Ya
+19.0,Bandung,Website,Jaket,413000,0,2,Tidak,Tidak,2,1,,Ya
+21.0,Bandung,Shopee,Jaket,427000,50,2,Tidak,Ya,1,5,4.0,Ya
+16.0,Depok,Website,Celana,391000,50,2,Ya,Tidak,0,3,5.0,Ya
+24.0,Bogor,Shopee,Kaos,164000,0,1,Tidak,Tidak,2,3,5.0,Ya
+29.0,Bogor,Tokopedia,Celana,302000,10,4,Tidak,Tidak,0,2,4.0,Tidak
+16.0,Bandung,Shopee,Topi,157000,50,3,Tidak,Tidak,0,4,4.0,Tidak
+21.0,Tangerang,Tokopedia,Hoodie,365000,0,4,Tidak,Tidak,2,4,3.0,Tidak
+28.0,Luar Jabodetabek,Shopee,Kaos,206000,10,1,Ya,Tidak,2,1,4.0,Ya
+23.0,Luar Jabodetabek,TikTok Shop,Tas,242000,20,2,Tidak,Tidak,4,2,4.0,Ya
+16.0,Bekasi,TikTok Shop,Tas,286000,50,3,Ya,Tidak,2,4,4.0,Ya
+30.0,Bogor,Instagram,Kaos,152000,10,2,Tidak,Tidak,1,1,5.0,Tidak
+17.0,Luar Jabodetabek,Shopee,Hoodie,394000,0,4,Tidak,Tidak,2,2,5.0,Ya
+31.0,Bekasi,Toko Offline,Hoodie,408000,30,3,Tidak,Tidak,1,2,4.0,Tidak
+21.0,Tangerang,Shopee,Kaos,204000,10,2,Tidak,Tidak,0,5,5.0,Tidak
+20.0,Jakarta,Instagram,Topi,185000,20,4,Tidak,Ya,1,2,5.0,Ya
+24.0,Bogor,Website,Tas,307000,0,4,Tidak,Ya,1,6,4.0,Tidak
+24.0,Luar Jabodetabek,Instagram,Kaos,199000,10,2,Tidak,Ya,0,1,3.0,Tidak
+27.0,Luar Jabodetabek,Toko Offline,Hoodie,424000,0,3,Tidak,Tidak,1,2,5.0,Ya
+27.0,Luar Jabodetabek,Shopee,Tas,308000,10,1,Tidak,Tidak,0,4,5.0,Tidak
+23.0,Luar Jabodetabek,Instagram,Hoodie,423000,30,2,Tidak,Tidak,5,5,3.0,Tidak
+31.0,Depok,Website,Hoodie,437000,20,2,Tidak,Tidak,1,5,4.0,Tidak
+28.0,Bandung,Shopee,Kaos,169000,10,1,Tidak,Tidak,1,5,3.0,Tidak
+25.0,Bekasi,Website,Hoodie,404000,10,2,Ya,Tidak,3,4,5.0,Ya
+25.0,Tangerang,Instagram,Jaket,447000,0,3,Tidak,Tidak,1,6,5.0,Ya
+24.0,Bandung,Tokopedia,Kaos,203000,50,4,Tidak,Tidak,1,3,5.0,Ya
+24.0,Bekasi,TikTok Shop,Tas,263000,10,2,Ya,Tidak,0,4,3.0,Tidak
+27.0,Luar Jabodetabek,Toko Offline,Kaos,158000,30,3,Ya,Tidak,1,6,3.0,Tidak
+26.0,Tangerang,TikTok Shop,Kemeja,291000,0,4,Ya,Ya,1,4,4.0,Ya
+24.0,Tangerang,TikTok Shop,Kaos,155000,0,1,Tidak,Tidak,2,2,4.0,Tidak
+29.0,Depok,Shopee,Hoodie,410000,10,2,Tidak,Tidak,1,5,4.0,Tidak
+23.0,Jakarta,Shopee,Celana,345000,20,1,Tidak,Tidak,2,2,5.0,Ya
+26.0,Jakarta,Shopee,Kaos,163000,0,3,Tidak,Ya,1,7,4.0,Tidak
+28.0,Bogor,Toko Offline,Kemeja,345000,20,3,Ya,Tidak,1,4,5.0,Ya
+18.0,Luar Jabodetabek,TikTok Shop,Celana,349000,0,3,Tidak,Ya,2,2,3.0,Ya
+23.0,Tangerang,TikTok Shop,Jaket,467000,20,4,Tidak,Tidak,0,4,5.0,Tidak
+32.0,Luar Jabodetabek,Website,Kaos,180000,30,4,Tidak,Tidak,2,4,5.0,Ya
+19.0,Bandung,Instagram,Topi,162000,20,4,Tidak,Tidak,2,4,3.0,Ya
+30.0,Jakarta,TikTok Shop,Kemeja,350000,10,4,Tidak,Ya,1,2,4.0,Ya
+19.0,Jakarta,Tokopedia,Hoodie,396000,20,2,Ya,Tidak,1,5,4.0,Ya
+26.0,Tangerang,Toko Offline,Kaos,196000,0,1,Tidak,Tidak,2,4,5.0,Ya
+19.0,Depok,Instagram,Celana,330000,10,2,Ya,Tidak,2,6,4.0,Ya
+21.0,Luar Jabodetabek,Instagram,Kemeja,264000,10,4,Tidak,Ya,3,3,4.0,Ya
+22.0,Luar Jabodetabek,Website,Topi,109000,10,4,Tidak,Tidak,3,1,5.0,Ya
+21.0,Bogor,Website,Celana,304000,0,3,Tidak,Tidak,4,3,4.0,Ya
+29.0,Bandung,Website,Hoodie,375000,0,2,Tidak,Tidak,1,2,5.0,Ya
+28.0,Luar Jabodetabek,Toko Offline,Kaos,213000,50,2,Tidak,Ya,0,7,5.0,Ya
+28.0,Depok,Instagram,Tas,268000,10,1,Tidak,Tidak,2,5,4.0,Ya
+25.0,Jakarta,TikTok Shop,Kaos,190000,50,2,Tidak,Tidak,4,1,5.0,Ya
+32.0,Tangerang,Shopee,Tas,273000,20,1,Ya,Tidak,1,5,3.0,Tidak
+29.0,Tangerang,Website,Kaos,184000,20,2,Tidak,Tidak,1,1,4.0,Ya
+,Bekasi,Toko Offline,Celana,333000,10,3,Tidak,Tidak,1,4,5.0,Ya
+19.0,Bogor,TikTok Shop,Kemeja,243000,0,2,Tidak,Tidak,0,7,4.0,Tidak
+27.0,Bandung,Instagram,Topi,134000,0,2,Ya,Tidak,5,2,4.0,Ya
+27.0,Bandung,Shopee,Celana,276000,0,4,Tidak,Tidak,3,6,5.0,Ya
+24.0,Bandung,Shopee,Kaos,177000,20,2,Ya,Tidak,2,5,5.0,Ya
+28.0,Luar Jabodetabek,Shopee,Kaos,212000,0,3,Tidak,Tidak,3,4,3.0,Tidak
+28.0,Jakarta,Shopee,Kaos,169000,0,1,Tidak,Ya,0,6,5.0,Tidak
+23.0,Tangerang,Instagram,Celana,330000,0,4,Ya,Tidak,2,5,4.0,Ya
+27.0,Depok,Shopee,Hoodie,412000,20,4,Tidak,Tidak,3,2,4.0,Ya
+26.0,Bandung,Tokopedia,Kaos,159000,30,1,Tidak,Ya,1,5,5.0,Tidak
+26.0,Bandung,Instagram,Kaos,201000,20,1,Tidak,Tidak,3,4,5.0,Ya
+22.0,Jakarta,Toko Offline,Hoodie,379000,0,4,Ya,Tidak,2,3,5.0,Ya
+22.0,Bekasi,TikTok Shop,Jaket,484000,10,4,Tidak,Tidak,0,4,3.0,Tidak
+25.0,Jakarta,Website,Topi,157000,0,4,Tidak,Tidak,4,3,4.0,Ya
+31.0,Bekasi,Shopee,Kaos,150000,50,2,Tidak,Tidak,5,6,4.0,Ya
+36.0,Tangerang,Shopee,Celana,307000,0,1,Tidak,Tidak,1,3,4.0,Tidak
+22.0,Bogor,Shopee,Kemeja,330000,30,2,Tidak,Ya,3,5,5.0,Ya
+19.0,Tangerang,Shopee,Celana,275000,30,2,Tidak,Ya,1,1,4.0,Ya
+22.0,Jakarta,Website,Tas,251000,10,4,Ya,Ya,1,2,4.0,Ya
+20.0,Tangerang,Tokopedia,Hoodie,395000,10,3,Ya,Tidak,1,1,5.0,Ya
+22.0,Depok,Website,Hoodie,414000,0,2,Tidak,Tidak,0,1,2.0,Tidak
+26.0,Bekasi,TikTok Shop,Tas,255000,10,2,Tidak,Tidak,0,7,4.0,Tidak
+19.0,Jakarta,Tokopedia,Kaos,146000,30,2,Tidak,Tidak,2,6,5.0,Ya
+27.0,Depok,Shopee,Kaos,221000,0,3,Tidak,Tidak,2,5,4.0,Tidak
+28.0,Bandung,Tokopedia,Topi,131000,20,1,Tidak,Tidak,1,5,4.0,Tidak
+32.0,Bekasi,Shopee,Kaos,147000,50,2,Tidak,Tidak,2,4,5.0,Ya
+33.0,Bekasi,TikTok Shop,Kaos,221000,0,2,Ya,Ya,2,4,5.0,Ya
+29.0,Depok,Website,Jaket,431000,50,3,Tidak,Tidak,1,3,5.0,Ya
+35.0,Depok,Website,Kaos,172000,20,4,Tidak,Ya,0,5,4.0,Tidak
+22.0,Bandung,Shopee,Kaos,178000,0,4,Tidak,Ya,1,5,5.0,Tidak
+25.0,Bogor,TikTok Shop,Celana,336000,30,2,Tidak,Tidak,1,1,3.0,Tidak
+,Depok,Instagram,Kaos,192000,0,3,Tidak,Tidak,1,5,4.0,Tidak
+26.0,Bogor,Toko Offline,Celana,336000,0,4,Tidak,Tidak,1,7,5.0,Tidak
+29.0,Bogor,Website,Kemeja,305000,30,3,Ya,Ya,3,6,4.0,Ya
+22.0,Bekasi,Shopee,Jaket,456000,30,1,Ya,Tidak,1,4,4.0,Ya
+33.0,Luar Jabodetabek,TikTok Shop,Kaos,200000,20,2,Ya,Tidak,0,4,2.0,Tidak
+30.0,Tangerang,TikTok Shop,Kemeja,322000,0,4,Tidak,Ya,1,2,5.0,Ya
+26.0,Luar Jabodetabek,Website,Kemeja,275000,20,2,Tidak,Tidak,0,2,4.0,Ya
+26.0,Bogor,Tokopedia,Topi,146000,0,2,Tidak,Tidak,0,1,4.0,Tidak
+19.0,Jakarta,Website,Kemeja,334000,0,1,Tidak,Tidak,3,3,4.0,Ya
+16.0,Jakarta,Website,Kemeja,294000,50,3,Ya,Ya,0,2,3.0,Tidak
+24.0,Depok,Instagram,Kaos,197000,20,2,Tidak,Ya,0,7,5.0,Tidak
+26.0,Depok,Toko Offline,Jaket,446000,10,3,Tidak,Tidak,0,3,4.0,Tidak
+25.0,Bandung,Instagram,Kaos,158000,0,4,Tidak,Ya,0,2,4.0,Ya
+19.0,Tangerang,Instagram,Kaos,167000,0,1,Ya,Ya,3,3,5.0,Ya
+22.0,Tangerang,Shopee,Kaos,183000,10,3,Tidak,Tidak,2,4,4.0,Tidak
+33.0,Jakarta,Shopee,Jaket,483000,0,4,Ya,Tidak,2,3,5.0,Ya
+28.0,Bandung,Shopee,Kaos,193000,10,3,Ya,Tidak,1,5,4.0,Tidak
+27.0,Luar Jabodetabek,Instagram,Jaket,432000,0,1,Ya,Tidak,2,4,5.0,Ya
+23.0,Tangerang,Tokopedia,Hoodie,423000,10,4,Tidak,Ya,3,3,5.0,Ya
+28.0,Luar Jabodetabek,Tokopedia,Kemeja,305000,20,4,Ya,Tidak,0,2,5.0,Ya
+30.0,Tangerang,TikTok Shop,Hoodie,347000,0,2,Ya,Ya,0,3,3.0,Tidak
+28.0,Tangerang,TikTok Shop,Hoodie,437000,50,3,Tidak,Tidak,1,2,5.0,Ya
+22.0,Luar Jabodetabek,Toko Offline,Kaos,212000,10,4,Tidak,Tidak,1,5,3.0,Tidak
+25.0,Bogor,Website,Tas,307000,0,2,Ya,Tidak,3,4,5.0,Ya
+20.0,Depok,Shopee,Jaket,480000,10,3,Tidak,Tidak,1,5,5.0,Tidak
+23.0,Luar Jabodetabek,Instagram,Hoodie,371000,10,1,Tidak,Tidak,4,2,5.0,Ya
+27.0,Jakarta,Instagram,Kaos,182000,0,4,Tidak,Ya,2,7,5.0,Ya
+21.0,Depok,Shopee,Jaket,491000,30,4,Tidak,Tidak,1,2,3.0,Tidak
+23.0,Luar Jabodetabek,Tokopedia,Kaos,182000,20,3,Ya,Tidak,0,5,5.0,Tidak
+31.0,Depok,Shopee,Hoodie,382000,30,4,Ya,Tidak,0,2,4.0,Ya
+23.0,Jakarta,Website,Kemeja,272000,10,2,Tidak,Tidak,1,6,5.0,Ya
+28.0,Jakarta,Shopee,Hoodie,391000,20,1,Tidak,Tidak,0,1,5.0,Ya
+23.0,Tangerang,Toko Offline,Kemeja,274000,20,2,Tidak,Ya,0,1,4.0,Ya
+18.0,Bekasi,Toko Offline,Kaos,157000,0,2,Tidak,Tidak,1,4,4.0,Tidak
+24.0,Bogor,TikTok Shop,Tas,251000,30,1,Tidak,Ya,0,3,3.0,Ya
+22.0,Bandung,TikTok Shop,Kemeja,319000,30,3,Ya,Ya,0,4,4.0,Tidak
+16.0,Bekasi,Instagram,Kaos,154000,0,1,Ya,Ya,2,4,4.0,Ya
+18.0,Jakarta,Toko Offline,Kaos,202000,0,2,Tidak,Ya,1,2,4.0,Ya
+22.0,Bogor,Instagram,Topi,137000,20,4,Tidak,Tidak,0,5,3.0,Tidak
+31.0,Tangerang,Instagram,Jaket,478000,50,1,Tidak,Tidak,2,1,2.0,Tidak
+21.0,Jakarta,Toko Offline,Tas,260000,0,3,Ya,Tidak,2,4,4.0,Ya
+24.0,Tangerang,Tokopedia,Kaos,166000,50,3,Ya,Tidak,4,5,5.0,Ya
+27.0,Jakarta,TikTok Shop,Kaos,217000,0,3,Ya,Ya,1,1,4.0,Ya
+26.0,Tangerang,Instagram,Kaos,156000,20,1,Ya,Tidak,1,2,5.0,Ya
+22.0,Jakarta,Tokopedia,Kaos,189000,0,1,Ya,Ya,1,3,4.0,Tidak
+33.0,Tangerang,Tokopedia,Hoodie,450000,10,1,Tidak,Tidak,2,5,3.0,Tidak
+31.0,Bandung,Tokopedia,Topi,137000,50,1,Tidak,Tidak,1,2,3.0,Tidak
+16.0,Depok,TikTok Shop,Kaos,198000,0,3,Ya,Tidak,2,4,5.0,Ya
+29.0,Bogor,Toko Offline,Celana,313000,20,4,Tidak,Tidak,0,2,3.0,Tidak
+27.0,Bekasi,Website,Hoodie,383000,0,1,Tidak,Tidak,0,6,3.0,Tidak
+29.0,Bandung,Toko Offline,Hoodie,385000,50,2,Tidak,Tidak,0,3,4.0,Tidak
+25.0,Bandung,Instagram,Kaos,195000,50,3,Tidak,Ya,2,3,4.0,Ya
+28.0,Depok,Website,Hoodie,406000,50,2,Tidak,Ya,1,2,3.0,Ya
+34.0,Bandung,TikTok Shop,Kemeja,289000,0,2,Tidak,Ya,1,5,5.0,Ya
+33.0,Bandung,Instagram,Kaos,164000,30,1,Ya,Tidak,1,4,4.0,Tidak
+33.0,Bekasi,TikTok Shop,Hoodie,403000,10,3,Tidak,Tidak,2,5,5.0,Ya
+29.0,Tangerang,Website,Jaket,466000,0,3,Tidak,Tidak,0,7,2.0,Tidak
+29.0,Luar Jabodetabek,Toko Offline,Hoodie,409000,0,4,Ya,Tidak,1,5,5.0,Ya
+29.0,Bandung,Shopee,Kemeja,296000,10,2,Tidak,Tidak,1,3,5.0,Tidak
+19.0,Jakarta,Toko Offline,Kaos,204000,30,3,Tidak,Ya,2,8,4.0,Tidak
+35.0,Luar Jabodetabek,Tokopedia,Hoodie,466000,10,1,Tidak,Tidak,1,5,4.0,Tidak
+25.0,Bogor,TikTok Shop,Kemeja,345000,0,4,Tidak,Tidak,1,4,5.0,Tidak
+26.0,Bekasi,Tokopedia,Kemeja,351000,10,4,Ya,Tidak,1,5,5.0,Ya
+25.0,Depok,Toko Offline,Tas,276000,0,2,Ya,Tidak,1,3,4.0,Ya
+26.0,Jakarta,Website,Kaos,160000,0,1,Ya,Ya,0,5,3.0,Tidak
+16.0,Depok,Website,Kaos,184000,50,3,Tidak,Ya,0,3,4.0,Ya
+25.0,Tangerang,Website,Kaos,181000,0,3,Tidak,Ya,2,1,4.0,Ya
+18.0,Jakarta,Toko Offline,Kaos,184000,50,2,Tidak,Tidak,0,1,5.0,Ya
+19.0,Jakarta,Toko Offline,Kemeja,325000,0,1,Tidak,Tidak,2,5,4.0,Ya
+16.0,Bekasi,Instagram,Hoodie,403000,30,3,Ya,Ya,1,4,5.0,Ya
+16.0,Depok,Website,Tas,290000,20,2,Ya,Tidak,0,3,4.0,Ya
+27.0,Luar Jabodetabek,Shopee,Topi,169000,0,3,Tidak,Tidak,1,2,4.0,Tidak
+22.0,Luar Jabodetabek,Shopee,Topi,138000,0,4,Ya,Tidak,2,3,4.0,Ya
+24.0,Jakarta,Toko Offline,Hoodie,415000,50,1,Ya,Ya,3,5,5.0,Ya
+23.0,Luar Jabodetabek,Shopee,Kaos,196000,0,1,Tidak,Tidak,2,1,3.0,Tidak
+18.0,Jakarta,Instagram,Kemeja,284000,20,1,Ya,Tidak,1,3,4.0,Ya
+21.0,Bekasi,Tokopedia,Jaket,444000,0,1,Ya,Tidak,2,3,3.0,Tidak
+18.0,Luar Jabodetabek,TikTok Shop,Kaos,218000,10,1,Tidak,Tidak,3,4,5.0,Ya
+23.0,Bandung,Instagram,Kemeja,292000,20,2,Tidak,Ya,1,3,5.0,Ya
+16.0,Bandung,Tokopedia,Celana,323000,30,2,Tidak,Tidak,1,6,5.0,Tidak
+22.0,Luar Jabodetabek,TikTok Shop,Topi,141000,20,2,Tidak,Ya,0,1,5.0,Ya
+29.0,Bogor,Instagram,Celana,327000,20,4,Ya,Tidak,2,7,3.0,Ya
+30.0,Bekasi,Tokopedia,Jaket,444000,10,2,Tidak,Tidak,4,3,4.0,Ya
+30.0,Bogor,Instagram,Kemeja,323000,0,3,Tidak,Tidak,3,1,2.0,Tidak
+26.0,Luar Jabodetabek,TikTok Shop,Hoodie,425000,0,3,Tidak,Tidak,2,6,5.0,Ya
+19.0,Jakarta,TikTok Shop,Kaos,189000,0,4,Tidak,Tidak,1,4,4.0,Tidak
+29.0,Tangerang,Website,Hoodie,415000,20,4,Ya,Tidak,1,4,4.0,Ya
+27.0,Bekasi,Website,Tas,305000,0,4,Tidak,Ya,1,2,5.0,Ya
+25.0,Bekasi,Website,Celana,320000,20,4,Ya,Tidak,1,2,3.0,Tidak
+18.0,Tangerang,Instagram,Kaos,168000,30,2,Tidak,Tidak,1,4,4.0,Tidak
+26.0,Bekasi,Tokopedia,Kemeja,327000,0,2,Ya,Ya,1,4,5.0,Ya
+31.0,Jakarta,Website,Celana,364000,0,1,Tidak,Tidak,0,6,4.0,Tidak
+28.0,Bandung,Website,Kemeja,271000,0,2,Tidak,Tidak,2,7,5.0,Ya
+23.0,Bekasi,TikTok Shop,Kaos,206000,0,1,Tidak,Tidak,1,4,4.0,Tidak
+27.0,Jakarta,Shopee,Hoodie,407000,20,4,Tidak,Ya,2,3,4.0,Ya
+24.0,Depok,Toko Offline,Kaos,217000,0,1,Tidak,Tidak,0,6,5.0,Tidak
+25.0,Bekasi,TikTok Shop,Tas,291000,10,1,Tidak,Ya,1,3,5.0,Ya
+28.0,Bogor,Shopee,Kaos,153000,20,1,Ya,Tidak,2,5,4.0,Tidak
+26.0,Bandung,Instagram,Kaos,155000,10,2,Tidak,Tidak,0,2,5.0,Ya
+24.0,Bogor,Shopee,Tas,289000,30,3,Tidak,Tidak,2,1,4.0,Ya
+26.0,Tangerang,Tokopedia,Jaket,478000,30,2,Tidak,Ya,0,1,5.0,Ya
+20.0,Depok,Website,Topi,127000,10,2,Tidak,Tidak,1,2,4.0,Ya
+19.0,Tangerang,TikTok Shop,Celana,294000,20,4,Ya,Ya,3,5,4.0,Ya
+26.0,Jakarta,Tokopedia,Kaos,184000,30,2,Ya,Ya,3,4,5.0,Ya
+21.0,Depok,Tokopedia,Kemeja,299000,0,4,Tidak,Tidak,1,1,5.0,Ya
+27.0,Bogor,TikTok Shop,Kaos,250000,20,1,Tidak,Tidak,0,5,4.0,Tidak
+16.0,Jakarta,Tokopedia,Celana,310000,20,4,Tidak,Tidak,1,4,4.0,Tidak
+30.0,Luar Jabodetabek,Shopee,Kaos,166000,0,3,Tidak,Tidak,2,4,5.0,Ya
+24.0,Luar Jabodetabek,Instagram,Kaos,155000,30,2,Tidak,Tidak,1,3,4.0,Ya
+32.0,Jakarta,Tokopedia,Topi,132000,20,4,Ya,Tidak,1,5,3.0,Tidak
+16.0,Tangerang,Toko Offline,Kaos,173000,0,3,Tidak,Tidak,1,5,3.0,Tidak
+16.0,Luar Jabodetabek,Tokopedia,Kaos,204000,0,2,Tidak,Tidak,1,1,3.0,Tidak
+31.0,Bandung,Instagram,Celana,344000,0,4,Ya,Tidak,0,5,4.0,Tidak
+25.0,Bandung,Shopee,Kaos,201000,0,2,Tidak,Tidak,1,5,4.0,Tidak
+26.0,Bogor,TikTok Shop,Kaos,157000,10,3,Tidak,Ya,1,4,5.0,Ya
+25.0,Bandung,Instagram,Celana,317000,0,4,Tidak,Tidak,3,3,5.0,Ya
+25.0,Tangerang,Toko Offline,Kemeja,315000,10,1,Tidak,Tidak,3,6,4.0,Ya
+27.0,Luar Jabodetabek,Shopee,Kemeja,303000,30,1,Tidak,Tidak,3,2,4.0,Ya
+19.0,Bandung,Tokopedia,Kaos,166000,0,2,Tidak,Tidak,3,5,5.0,Ya
+23.0,Tangerang,Shopee,Celana,327000,10,4,Ya,Tidak,4,5,4.0,Ya
+30.0,Jakarta,Website,Hoodie,424000,10,4,Tidak,Tidak,3,6,3.0,Tidak
+25.0,Luar Jabodetabek,Instagram,Tas,312000,30,2,Tidak,Tidak,1,5,4.0,Tidak
+21.0,Tangerang,Instagram,Tas,323000,0,4,Tidak,Tidak,1,4,5.0,Ya
+25.0,Luar Jabodetabek,Toko Offline,Kaos,185000,0,2,Tidak,Tidak,2,1,5.0,Ya
+29.0,Tangerang,TikTok Shop,Kemeja,355000,0,4,Tidak,Ya,1,3,5.0,Ya
+23.0,Tangerang,Toko Offline,Kaos,182000,20,2,Ya,Ya,3,5,5.0,Ya
+23.0,Tangerang,Shopee,Kaos,194000,20,2,Tidak,Tidak,2,4,4.0,Tidak
+26.0,Jakarta,Shopee,Topi,176000,30,2,Tidak,Ya,1,1,5.0,Ya
+28.0,Bekasi,TikTok Shop,Kaos,166000,0,4,Tidak,Ya,4,4,4.0,Ya
+31.0,Bogor,Shopee,Hoodie,405000,10,4,Tidak,Tidak,1,2,4.0,Ya
+23.0,Tangerang,Tokopedia,Kaos,173000,0,1,Ya,Ya,2,4,4.0,Ya
+26.0,Jakarta,Shopee,Tas,329000,0,1,Tidak,Tidak,2,6,5.0,Tidak
+29.0,Depok,Tokopedia,Kaos,206000,0,2,Tidak,Tidak,2,3,4.0,Tidak
+16.0,Bogor,Instagram,Kaos,147000,20,2,Tidak,Tidak,2,4,5.0,Ya
+25.0,Luar Jabodetabek,Toko Offline,Kaos,189000,20,1,Tidak,Tidak,4,2,5.0,Ya
+26.0,Tangerang,Toko Offline,Kaos,204000,0,1,Tidak,Tidak,2,3,5.0,Ya
+24.0,Bogor,Shopee,Kaos,229000,0,1,Tidak,Ya,2,3,5.0,Ya
+20.0,Jakarta,Shopee,Kemeja,305000,0,2,Tidak,Ya,1,2,4.0,Ya
+27.0,Jakarta,Website,Hoodie,341000,10,3,Tidak,Tidak,2,1,5.0,Ya
+30.0,Tangerang,Instagram,Topi,154000,20,2,Ya,Tidak,0,5,5.0,Ya
+24.0,Bogor,TikTok Shop,Jaket,486000,0,1,Ya,Tidak,4,4,5.0,Ya
+22.0,Depok,Shopee,Kaos,191000,0,4,Ya,Tidak,0,1,4.0,Tidak
+23.0,Jakarta,Instagram,Kaos,158000,0,4,Tidak,Tidak,1,1,4.0,Ya
+32.0,Bandung,Website,Kaos,171000,0,3,Tidak,Ya,0,4,3.0,Ya
+30.0,Tangerang,Instagram,Kaos,171000,30,3,Ya,Tidak,1,3,4.0,Ya
+24.0,Luar Jabodetabek,Tokopedia,Jaket,500000,0,3,Ya,Ya,0,5,3.0,Tidak
+19.0,Luar Jabodetabek,Toko Offline,Celana,335000,10,2,Ya,Tidak,2,2,5.0,Ya
+18.0,Bekasi,Shopee,Kemeja,272000,10,1,Tidak,Ya,0,3,5.0,Ya
+23.0,Jakarta,Instagram,Kaos,167000,10,1,Tidak,Tidak,3,5,5.0,Ya
+23.0,Tangerang,Instagram,Kaos,221000,10,1,Tidak,Tidak,1,4,5.0,Ya
+25.0,Tangerang,Instagram,Hoodie,327000,20,4,Tidak,Tidak,2,5,5.0,Ya
+18.0,Bogor,Instagram,Jaket,401000,30,4,Tidak,Tidak,1,5,5.0,Ya
+23.0,Tangerang,Shopee,Celana,308000,20,4,Tidak,Ya,0,4,5.0,Ya
+27.0,Bekasi,Tokopedia,Kaos,177000,10,2,Tidak,Tidak,0,4,5.0,Tidak
+16.0,Bekasi,Tokopedia,Kaos,137000,0,1,Ya,Tidak,2,3,4.0,Ya
+36.0,Bogor,TikTok Shop,Kaos,212000,30,2,Tidak,Ya,2,6,3.0,Tidak
+27.0,Bandung,Shopee,Kaos,164000,0,3,Ya,Ya,2,4,3.0,Ya
+27.0,Bogor,Instagram,Tas,246000,0,1,Tidak,Tidak,5,3,4.0,Ya
+18.0,Tangerang,Shopee,Kaos,167000,0,4,Tidak,Tidak,1,7,4.0,Tidak
+19.0,Luar Jabodetabek,Tokopedia,Topi,93000,0,2,Ya,Tidak,4,4,5.0,Ya
+29.0,Tangerang,TikTok Shop,Tas,265000,0,3,Ya,Ya,0,6,5.0,Tidak
+29.0,Tangerang,Instagram,Kaos,224000,20,3,Tidak,Tidak,2,1,4.0,Ya
+16.0,Tangerang,Instagram,Kaos,150000,30,3,Tidak,Tidak,4,1,4.0,Ya
+30.0,Jakarta,Instagram,Kaos,179000,20,1,Tidak,Tidak,3,3,4.0,Ya
+28.0,Tangerang,Website,Hoodie,397000,0,3,Tidak,Tidak,3,4,4.0,Ya
+27.0,Jakarta,Toko Offline,Kaos,165000,0,3,Tidak,Tidak,2,2,5.0,Ya
+19.0,Luar Jabodetabek,Instagram,Hoodie,434000,10,1,Tidak,Tidak,0,3,4.0,Tidak
+25.0,Depok,Website,Kaos,257000,20,4,Ya,Ya,2,4,5.0,Ya
+21.0,Tangerang,Toko Offline,Hoodie,360000,0,4,Tidak,Tidak,1,2,4.0,Ya
+27.0,Jakarta,Instagram,Hoodie,397000,20,1,Tidak,Tidak,2,5,5.0,Tidak
+33.0,Tangerang,Website,Topi,128000,20,1,Tidak,Tidak,1,2,5.0,Ya
+27.0,Bandung,Instagram,Tas,273000,10,1,Ya,Ya,2,4,5.0,Ya
+29.0,Jakarta,Shopee,Hoodie,423000,0,1,Tidak,Tidak,1,2,4.0,Tidak
+23.0,Luar Jabodetabek,Toko Offline,Kaos,263000,0,2,Tidak,Ya,1,5,4.0,Tidak
+19.0,Bekasi,TikTok Shop,Kaos,185000,30,4,Tidak,Tidak,2,5,3.0,Tidak
+24.0,Tangerang,TikTok Shop,Kaos,180000,30,3,Tidak,Tidak,1,4,3.0,Tidak
+29.0,Bekasi,Instagram,Kemeja,269000,30,2,Ya,Ya,0,5,4.0,Tidak
+32.0,Jakarta,Tokopedia,Kaos,169000,10,2,Tidak,Tidak,1,2,4.0,Tidak
+24.0,Tangerang,Shopee,Hoodie,428000,20,4,Tidak,Tidak,1,3,4.0,Ya
+25.0,Jakarta,Shopee,Hoodie,390000,0,4,Tidak,Tidak,0,1,3.0,Tidak
+22.0,Tangerang,Tokopedia,Kaos,149000,0,1,Tidak,Tidak,1,4,3.0,Tidak
+16.0,Depok,Tokopedia,Kemeja,278000,10,1,Tidak,Ya,2,3,4.0,Ya
+25.0,Tangerang,Shopee,Tas,236000,0,3,Tidak,Ya,0,1,5.0,Ya
+26.0,Depok,Tokopedia,Kaos,160000,10,1,Ya,Ya,2,5,5.0,Ya
+22.0,Bogor,Tokopedia,Celana,354000,0,1,Tidak,Ya,2,4,5.0,Ya
+23.0,Luar Jabodetabek,TikTok Shop,Celana,366000,10,4,Tidak,Tidak,1,1,4.0,Tidak
+16.0,Jakarta,Website,Hoodie,441000,0,1,Tidak,Tidak,1,4,,Tidak
+25.0,Tangerang,Toko Offline,Kaos,169000,20,2,Ya,Tidak,3,3,4.0,Ya
+31.0,Luar Jabodetabek,TikTok Shop,Kemeja,283000,0,3,Tidak,Ya,0,2,5.0,Tidak
+24.0,Bogor,Tokopedia,Jaket,485000,0,3,Tidak,Tidak,1,4,5.0,Tidak
+27.0,Tangerang,Tokopedia,Hoodie,358000,20,2,Ya,Tidak,1,3,4.0,Ya
+26.0,Bekasi,TikTok Shop,Celana,359000,10,2,Tidak,Ya,2,3,4.0,Ya
+20.0,Bekasi,Instagram,Tas,308000,20,4,Tidak,Tidak,1,3,5.0,Ya
+25.0,Bandung,Tokopedia,Kaos,170000,10,1,Tidak,Tidak,2,5,4.0,Tidak
+20.0,Tangerang,Toko Offline,Celana,323000,0,2,Tidak,Tidak,2,3,5.0,Ya
+39.0,Tangerang,Shopee,Kemeja,390000,10,1,Tidak,Tidak,1,3,4.0,Tidak
+25.0,Bandung,Shopee,Tas,289000,0,2,Tidak,Ya,2,4,3.0,Tidak
+19.0,Jakarta,Website,Jaket,454000,0,1,Ya,Tidak,2,5,4.0,Tidak
+17.0,Jakarta,Instagram,Celana,384000,50,4,Tidak,Ya,1,1,5.0,Ya
+32.0,Depok,Instagram,Topi,153000,20,4,Ya,Tidak,0,3,4.0,Tidak
+27.0,Bogor,Shopee,Tas,257000,0,2,Tidak,Tidak,4,4,5.0,Ya
+26.0,Tangerang,Instagram,Kaos,191000,50,2,Tidak,Tidak,2,6,5.0,Ya
+17.0,Luar Jabodetabek,Shopee,Kaos,205000,20,3,Tidak,Tidak,1,1,5.0,Ya
+21.0,Jakarta,Website,Kaos,179000,0,2,Tidak,Tidak,1,3,5.0,Ya
+18.0,Depok,Instagram,Celana,347000,0,3,Ya,Tidak,3,5,4.0,Ya
+30.0,Tangerang,Instagram,Tas,321000,10,3,Tidak,Ya,4,5,4.0,Ya
+22.0,Tangerang,TikTok Shop,Kaos,171000,10,3,Tidak,Tidak,1,3,4.0,Tidak
+34.0,Jakarta,TikTok Shop,Kemeja,290000,10,3,Tidak,Tidak,2,3,3.0,Tidak
+27.0,Bogor,TikTok Shop,Hoodie,412000,20,2,Tidak,Tidak,2,4,5.0,Ya
+23.0,Tangerang,Website,Kaos,209000,20,1,Tidak,Tidak,1,3,5.0,Ya
+31.0,Luar Jabodetabek,TikTok Shop,Kaos,145000,30,3,Tidak,Ya,2,2,5.0,Ya
+16.0,Bandung,Tokopedia,Hoodie,427000,20,2,Tidak,Tidak,2,3,4.0,Ya
+20.0,Bogor,Shopee,Celana,264000,20,4,Tidak,Tidak,2,1,4.0,Ya
+22.0,Luar Jabodetabek,TikTok Shop,Kaos,198000,10,1,Tidak,Tidak,2,6,4.0,Tidak
+30.0,Bekasi,Instagram,Hoodie,359000,30,4,Ya,Ya,3,8,4.0,Ya
+30.0,Luar Jabodetabek,TikTok Shop,Hoodie,413000,0,1,Ya,Ya,2,7,4.0,Tidak
+26.0,Tangerang,Shopee,Jaket,473000,10,3,Ya,Tidak,1,4,4.0,Tidak
+16.0,Jakarta,Instagram,Celana,296000,20,3,Tidak,Tidak,1,1,4.0,Ya
+22.0,Depok,Website,Kaos,148000,0,4,Tidak,Tidak,4,3,5.0,Ya
+19.0,Luar Jabodetabek,Shopee,Jaket,461000,20,1,Tidak,Ya,0,3,5.0,Tidak
+30.0,Tangerang,Website,Jaket,463000,30,1,Tidak,Ya,2,4,5.0,Ya
+22.0,Tangerang,Toko Offline,Tas,287000,10,3,Tidak,Ya,1,2,4.0,Ya
+27.0,Bandung,TikTok Shop,Topi,122000,10,3,Tidak,Tidak,2,5,4.0,Ya
+33.0,Luar Jabodetabek,TikTok Shop,Tas,284000,10,2,Ya,Ya,0,3,4.0,Ya
+24.0,Jakarta,Instagram,Hoodie,398000,20,4,Tidak,Tidak,3,5,5.0,Ya
+28.0,Bekasi,Tokopedia,Celana,352000,20,1,Ya,Tidak,1,3,3.0,Tidak
+22.0,Bogor,Shopee,Kaos,195000,30,1,Ya,Tidak,2,4,5.0,Ya
+24.0,Tangerang,Website,Topi,166000,10,2,Tidak,Tidak,1,3,4.0,Ya
+24.0,Bekasi,TikTok Shop,Hoodie,371000,20,2,Tidak,Tidak,2,3,3.0,Tidak
+24.0,Bekasi,Toko Offline,Celana,357000,20,2,Tidak,Ya,1,5,5.0,Ya
+25.0,Luar Jabodetabek,Website,Kaos,221000,10,1,Tidak,Ya,1,2,3.0,Ya
+22.0,Luar Jabodetabek,TikTok Shop,Kaos,194000,30,4,Tidak,Tidak,3,6,4.0,Ya
+34.0,Tangerang,Shopee,Hoodie,399000,0,3,Tidak,Tidak,2,3,4.0,Tidak
+21.0,Luar Jabodetabek,Instagram,Tas,254000,30,3,Tidak,Tidak,0,8,3.0,Tidak
+25.0,Jakarta,Shopee,Kaos,169000,30,2,Ya,Tidak,3,2,4.0,Ya
+23.0,Tangerang,Instagram,Hoodie,373000,10,4,Tidak,Tidak,2,4,4.0,Ya
+16.0,Jakarta,Shopee,Kaos,201000,20,4,Ya,Tidak,2,5,3.0,Tidak
+29.0,Luar Jabodetabek,Tokopedia,Kaos,187000,20,3,Tidak,Tidak,3,5,5.0,Ya
+25.0,Depok,Shopee,Hoodie,384000,0,3,Tidak,Ya,2,3,5.0,Ya
+17.0,Jakarta,Tokopedia,Kemeja,332000,20,1,Tidak,Ya,1,5,4.0,Tidak
+21.0,Tangerang,Instagram,Topi,154000,20,3,Tidak,Tidak,1,1,4.0,Ya
+16.0,Bandung,Toko Offline,Tas,294000,20,4,Tidak,Tidak,3,4,3.0,Tidak
+26.0,Jakarta,TikTok Shop,Celana,309000,0,3,Tidak,Tidak,2,4,3.0,Ya
+32.0,Tangerang,Website,Tas,274000,30,2,Ya,Tidak,2,1,4.0,Ya
+30.0,Bandung,Tokopedia,Kaos,178000,20,1,Tidak,Ya,1,4,4.0,Ya
+18.0,Bogor,Shopee,Kaos,175000,50,3,Tidak,Tidak,2,2,5.0,Ya
+16.0,Tangerang,Instagram,Kemeja,329000,0,4,Ya,Ya,0,4,5.0,Ya
+27.0,Luar Jabodetabek,Instagram,Kaos,180000,0,4,Tidak,Tidak,3,3,3.0,Tidak
+33.0,Jakarta,Instagram,Tas,273000,20,2,Ya,Ya,1,4,5.0,Ya
+24.0,Jakarta,TikTok Shop,Kaos,221000,10,1,Tidak,Tidak,1,1,3.0,Tidak
+29.0,Luar Jabodetabek,Tokopedia,Celana,346000,10,4,Tidak,Ya,0,2,5.0,Tidak
+17.0,Bekasi,Shopee,Kaos,218000,20,4,Tidak,Ya,2,4,5.0,Ya
+24.0,Jakarta,Shopee,Kaos,169000,0,2,Tidak,Tidak,1,4,4.0,Tidak
+26.0,Bekasi,Website,Kaos,138000,30,4,Tidak,Ya,3,3,4.0,Ya
+22.0,Bogor,Shopee,Jaket,422000,10,4,Ya,Ya,1,2,4.0,Ya
+23.0,Luar Jabodetabek,Toko Offline,Topi,160000,20,3,Tidak,Tidak,1,4,3.0,Tidak
+28.0,Tangerang,Toko Offline,Jaket,457000,10,2,Tidak,Tidak,1,4,3.0,Tidak
+21.0,Jakarta,Website,Kemeja,321000,30,1,Ya,Ya,2,3,3.0,Ya
+19.0,Bandung,Website,Tas,307000,50,1,Tidak,Tidak,3,4,5.0,Ya
+28.0,Bogor,Website,Kaos,180000,0,4,Tidak,Ya,2,6,2.0,Tidak
+25.0,Jakarta,Shopee,Kaos,172000,0,2,Ya,Ya,0,4,3.0,Tidak
+19.0,Depok,TikTok Shop,Kaos,198000,20,3,Tidak,Tidak,1,3,5.0,Ya
+26.0,Bandung,Website,Kemeja,285000,0,4,Tidak,Tidak,2,3,4.0,Ya
+21.0,Luar Jabodetabek,TikTok Shop,Kaos,161000,0,1,Ya,Ya,1,2,3.0,Ya
+27.0,Tangerang,Tokopedia,Hoodie,398000,50,1,Ya,Ya,1,5,4.0,Ya
+24.0,Jakarta,Website,Kaos,196000,20,4,Tidak,Tidak,1,3,4.0,Ya
+23.0,Bandung,TikTok Shop,Jaket,457000,0,4,Tidak,Tidak,1,5,5.0,Ya
+20.0,Luar Jabodetabek,TikTok Shop,Hoodie,388000,30,1,Tidak,Tidak,1,6,5.0,Tidak
+25.0,Jakarta,TikTok Shop,Kaos,188000,50,4,Tidak,Ya,1,2,5.0,Ya
+24.0,Luar Jabodetabek,Shopee,Kaos,156000,0,2,Tidak,Tidak,0,4,5.0,Tidak
+34.0,Luar Jabodetabek,Tokopedia,Tas,290000,0,3,Tidak,Tidak,2,4,5.0,Ya
+24.0,Bandung,Instagram,Hoodie,357000,0,3,Tidak,Tidak,1,5,5.0,Ya
+17.0,Bandung,TikTok Shop,Hoodie,429000,30,1,Ya,Ya,2,2,4.0,Ya
+34.0,Tangerang,Toko Offline,Kaos,155000,20,3,Tidak,Tidak,0,3,5.0,Ya
+16.0,Depok,Website,Tas,281000,10,3,Tidak,Tidak,2,1,4.0,Ya
+,Bogor,Instagram,Kemeja,276000,0,1,Tidak,Tidak,0,3,3.0,Tidak
+20.0,Bogor,Shopee,Tas,277000,10,1,Tidak,Tidak,1,1,5.0,Ya
+31.0,Jakarta,Toko Offline,Kaos,195000,10,2,Tidak,Tidak,2,6,4.0,Tidak
+23.0,Tangerang,Website,Jaket,400000,0,1,Tidak,Tidak,1,2,5.0,Ya
+27.0,Bandung,Shopee,Kemeja,339000,20,2,Tidak,Tidak,2,2,4.0,Ya
+24.0,Luar Jabodetabek,TikTok Shop,Tas,254000,50,1,Tidak,Tidak,1,4,5.0,Ya
+24.0,Luar Jabodetabek,Shopee,Celana,296000,0,4,Tidak,Tidak,2,4,5.0,Ya
+27.0,Luar Jabodetabek,Website,Kemeja,315000,0,4,Tidak,Tidak,1,2,3.0,Tidak
+21.0,Bekasi,Tokopedia,Tas,253000,0,3,Tidak,Tidak,3,5,5.0,Tidak
+26.0,Luar Jabodetabek,Website,Hoodie,399000,10,1,Tidak,Ya,2,4,4.0,Ya
+19.0,Bekasi,Website,Kaos,178000,0,1,Ya,Tidak,4,2,5.0,Ya
+20.0,Tangerang,TikTok Shop,Tas,315000,50,3,Tidak,Ya,2,1,5.0,Ya
+22.0,Bandung,Shopee,Hoodie,401000,0,4,Tidak,Ya,3,3,5.0,Ya
+24.0,Jakarta,Instagram,Kaos,178000,0,1,Tidak,Tidak,0,3,5.0,Ya
+30.0,Tangerang,Tokopedia,Hoodie,359000,30,3,Tidak,Tidak,1,4,4.0,Tidak
+20.0,Luar Jabodetabek,Instagram,Kemeja,285000,30,2,Tidak,Tidak,2,6,4.0,Ya
+20.0,Tangerang,TikTok Shop,Kaos,163000,50,4,Tidak,Ya,1,1,5.0,Ya
+18.0,Depok,Tokopedia,Kaos,184000,30,3,Ya,Ya,1,5,4.0,Tidak
+22.0,Tangerang,Shopee,Celana,352000,50,3,Tidak,Tidak,0,2,4.0,Ya
+27.0,Bogor,Tokopedia,Kaos,138000,10,3,Tidak,Tidak,3,2,4.0,Ya
+20.0,Bekasi,Website,Celana,326000,0,4,Tidak,Tidak,2,6,4.0,Tidak
+23.0,Depok,Toko Offline,Tas,312000,0,3,Tidak,Ya,4,3,4.0,Ya
+21.0,Tangerang,TikTok Shop,Jaket,428000,50,3,Tidak,Tidak,1,4,3.0,Tidak
+24.0,Tangerang,Website,Celana,336000,0,4,Ya,Ya,1,4,3.0,Ya
+16.0,Luar Jabodetabek,Website,Tas,293000,10,4,Tidak,Tidak,2,5,4.0,Ya
+27.0,Luar Jabodetabek,Shopee,Tas,336000,0,3,Tidak,Tidak,1,2,4.0,Ya
+29.0,Luar Jabodetabek,TikTok Shop,Kaos,201000,0,3,Tidak,Tidak,1,2,4.0,Ya
+20.0,Bandung,Shopee,Hoodie,392000,0,1,Tidak,Ya,2,5,5.0,Ya
+24.0,Bandung,Shopee,Tas,265000,0,2,Tidak,Tidak,3,1,3.0,Ya
+19.0,Tangerang,Website,Kaos,180000,0,2,Tidak,Tidak,1,1,5.0,Ya
+29.0,Luar Jabodetabek,TikTok Shop,Kemeja,326000,30,3,Tidak,Ya,2,5,4.0,Ya
+27.0,Luar Jabodetabek,Shopee,Kemeja,338000,0,2,Tidak,Tidak,2,1,4.0,Ya
+39.0,Luar Jabodetabek,Toko Offline,Kemeja,294000,0,2,Tidak,Tidak,1,4,5.0,Ya
+23.0,Tangerang,Toko Offline,Celana,336000,20,4,Ya,Tidak,2,4,4.0,Ya
+20.0,Tangerang,Shopee,Kaos,162000,50,3,Tidak,Ya,2,7,5.0,Ya
+22.0,Jakarta,Instagram,Jaket,460000,0,1,Tidak,Ya,0,5,5.0,Ya
+18.0,Luar Jabodetabek,Instagram,Kaos,155000,20,2,Tidak,Ya,2,1,4.0,Ya
+25.0,Bandung,Website,Hoodie,404000,50,2,Ya,Tidak,4,3,5.0,Ya
+26.0,Tangerang,TikTok Shop,Hoodie,392000,20,4,Ya,Tidak,2,4,3.0,Ya
+29.0,Tangerang,Shopee,Kaos,170000,20,2,Ya,Tidak,3,2,5.0,Ya
+26.0,Tangerang,Shopee,Hoodie,425000,20,1,Tidak,Tidak,2,1,4.0,Ya
+,Tangerang,Instagram,Kemeja,260000,30,4,Tidak,Ya,3,5,4.0,Ya
+31.0,Tangerang,Shopee,Hoodie,418000,10,2,Ya,Tidak,1,1,4.0,Ya
+27.0,Bogor,Shopee,Hoodie,396000,10,4,Tidak,Tidak,0,3,4.0,Tidak
+28.0,Bandung,Shopee,Tas,294000,0,2,Ya,Tidak,2,1,5.0,Ya
+18.0,Bogor,TikTok Shop,Kemeja,287000,0,1,Tidak,Ya,3,4,3.0,Ya
+20.0,Bandung,Instagram,Kaos,147000,50,1,Tidak,Tidak,1,3,3.0,Tidak
+21.0,Bogor,Shopee,Hoodie,390000,30,3,Tidak,Tidak,3,5,4.0,Ya
+22.0,Tangerang,Tokopedia,Kaos,154000,50,3,Tidak,Tidak,5,4,4.0,Ya
+16.0,Tangerang,Website,Tas,249000,30,2,Tidak,Tidak,0,2,4.0,Tidak
+30.0,Depok,TikTok Shop,Celana,300000,0,4,Tidak,Tidak,2,4,4.0,Ya
+23.0,Jakarta,Tokopedia,Celana,331000,0,2,Tidak,Ya,0,2,4.0,Ya
+28.0,Luar Jabodetabek,Shopee,Jaket,403000,0,1,Tidak,Ya,0,1,3.0,Tidak
+28.0,Tangerang,Instagram,Kaos,168000,20,3,Tidak,Tidak,0,8,5.0,Tidak
+32.0,Luar Jabodetabek,Instagram,Kaos,216000,10,3,Tidak,Tidak,1,3,4.0,Ya
+27.0,Bogor,Website,Kaos,207000,30,3,Tidak,Ya,2,5,4.0,Ya
+26.0,Jakarta,TikTok Shop,Hoodie,384000,10,1,Tidak,Tidak,3,5,5.0,Ya
+20.0,Jakarta,Instagram,Kemeja,329000,0,2,Ya,Tidak,1,3,3.0,Ya
+25.0,Tangerang,Instagram,Kemeja,274000,50,3,Tidak,Tidak,1,1,5.0,Ya
+33.0,Jakarta,Instagram,Jaket,456000,0,1,Tidak,Tidak,2,2,5.0,Ya
+16.0,Luar Jabodetabek,Instagram,Kemeja,303000,50,1,Ya,Tidak,2,4,4.0,Ya
+21.0,Bandung,Instagram,Kaos,207000,20,2,Tidak,Ya,1,4,4.0,Ya
+26.0,Luar Jabodetabek,Instagram,Kaos,143000,0,1,Ya,Tidak,2,3,4.0,Ya
+32.0,Depok,Shopee,Kemeja,363000,20,1,Tidak,Tidak,0,4,4.0,Tidak
+19.0,Tangerang,TikTok Shop,Kaos,197000,30,2,Tidak,Tidak,2,7,3.0,Tidak
+22.0,Tangerang,Toko Offline,Celana,349000,20,3,Tidak,Tidak,2,3,4.0,Ya
+25.0,Bekasi,TikTok Shop,Kemeja,314000,20,1,Tidak,Tidak,1,3,4.0,Ya
+40.0,Bekasi,Website,Jaket,463000,50,4,Ya,Tidak,0,4,4.0,Tidak
+20.0,Luar Jabodetabek,Shopee,Kaos,212000,0,3,Tidak,Tidak,1,1,5.0,Ya
+24.0,Depok,Instagram,Kaos,193000,0,2,Tidak,Tidak,3,3,4.0,Ya
+28.0,Jakarta,Shopee,Kaos,169000,50,2,Tidak,Tidak,2,2,5.0,Ya
+21.0,Jakarta,TikTok Shop,Kaos,144000,50,2,Ya,Tidak,0,3,5.0,Ya
+26.0,Bekasi,Toko Offline,Kaos,220000,20,4,Ya,Tidak,0,3,5.0,Ya
+26.0,Tangerang,TikTok Shop,Kaos,202000,10,4,Tidak,Tidak,0,4,5.0,Ya
+23.0,Bekasi,Shopee,Hoodie,394000,0,2,Ya,Tidak,1,2,4.0,Ya
+26.0,Jakarta,Shopee,Kaos,167000,10,1,Tidak,Tidak,2,6,4.0,Tidak
+33.0,Luar Jabodetabek,Shopee,Tas,293000,10,4,Tidak,Tidak,0,5,2.0,Tidak
+25.0,Luar Jabodetabek,Instagram,Topi,127000,30,3,Ya,Tidak,0,5,5.0,Ya
+22.0,Jakarta,Tokopedia,Hoodie,412000,10,2,Ya,Tidak,1,4,,Tidak
+21.0,Jakarta,Shopee,Kaos,214000,0,1,Tidak,Tidak,1,3,3.0,Tidak
+26.0,Luar Jabodetabek,Tokopedia,Celana,292000,0,2,Ya,Ya,1,4,3.0,Tidak
+30.0,Bandung,Shopee,Hoodie,391000,10,2,Tidak,Tidak,0,5,5.0,Tidak
+25.0,Bekasi,Website,Tas,296000,0,2,Tidak,Ya,1,3,5.0,Ya
+26.0,Bandung,TikTok Shop,Tas,309000,50,2,Tidak,Ya,1,6,4.0,Ya
+38.0,Bandung,Tokopedia,Kaos,197000,20,1,Tidak,Ya,0,3,3.0,Tidak
+21.0,Jakarta,Shopee,Tas,280000,10,4,Ya,Tidak,1,6,4.0,Tidak
+19.0,Jakarta,Instagram,Kaos,158000,30,4,Tidak,Ya,1,4,4.0,Ya
+26.0,Bogor,Instagram,Hoodie,400000,30,3,Tidak,Ya,3,6,5.0,Ya
+23.0,Jakarta,Instagram,Hoodie,335000,30,1,Tidak,Tidak,0,2,4.0,Tidak
+27.0,Tangerang,Toko Offline,Celana,303000,10,4,Tidak,Tidak,1,1,4.0,Ya
+31.0,Depok,Instagram,Kaos,198000,0,3,Ya,Ya,2,3,3.0,Ya
+26.0,Bandung,Shopee,Hoodie,393000,20,4,Tidak,Tidak,1,4,5.0,Tidak
+23.0,Bekasi,Shopee,Jaket,435000,10,3,Tidak,Tidak,1,2,5.0,Ya
+27.0,Bandung,Instagram,Hoodie,435000,0,1,Ya,Ya,1,4,5.0,Ya
+27.0,Luar Jabodetabek,Instagram,Kaos,162000,0,2,Tidak,Ya,1,4,4.0,Ya
+24.0,Jakarta,Instagram,Tas,296000,0,4,Tidak,Ya,2,1,5.0,Ya
+22.0,Tangerang,Shopee,Kemeja,321000,10,2,Tidak,Tidak,1,2,5.0,Ya
+28.0,Tangerang,Tokopedia,Kaos,184000,0,1,Tidak,Tidak,2,3,5.0,Tidak
+23.0,Luar Jabodetabek,Website,Jaket,452000,10,3,Tidak,Tidak,1,4,5.0,Ya
+19.0,Bekasi,Website,Hoodie,377000,50,2,Tidak,Tidak,1,2,4.0,Ya
+28.0,Bogor,Website,Kemeja,343000,10,2,Tidak,Tidak,0,5,5.0,Tidak
+22.0,Jakarta,Website,Kaos,181000,20,4,Tidak,Tidak,1,4,5.0,Ya
+22.0,Luar Jabodetabek,Toko Offline,Kaos,168000,0,3,Ya,Ya,1,5,4.0,Ya
+28.0,Bekasi,Tokopedia,Hoodie,429000,0,4,Tidak,Tidak,4,6,5.0,Ya
+21.0,Luar Jabodetabek,Shopee,Kaos,190000,0,1,Ya,Tidak,1,2,5.0,Ya
+24.0,Depok,Toko Offline,Hoodie,421000,10,4,Tidak,Tidak,1,6,3.0,Tidak
+20.0,Jakarta,Shopee,Kemeja,280000,0,3,Ya,Ya,0,5,4.0,Tidak
+17.0,Bogor,Shopee,Kaos,207000,0,1,Tidak,Tidak,3,1,5.0,Ya
+26.0,Bogor,Tokopedia,Celana,323000,20,3,Tidak,Ya,1,3,5.0,Ya
+32.0,Bogor,Instagram,Celana,308000,0,2,Tidak,Tidak,0,4,,Tidak
+20.0,Depok,Shopee,Celana,349000,10,1,Tidak,Tidak,0,6,5.0,Tidak
+30.0,Bandung,TikTok Shop,Hoodie,389000,20,3,Tidak,Ya,1,4,5.0,Ya
+30.0,Bogor,Toko Offline,Hoodie,388000,0,3,Tidak,Ya,1,4,4.0,Tidak
+32.0,Bandung,Instagram,Topi,130000,0,1,Tidak,Tidak,1,5,4.0,Tidak
+19.0,Bekasi,TikTok Shop,Tas,315000,10,3,Tidak,Tidak,2,4,3.0,Tidak
+21.0,Tangerang,Website,Topi,120000,0,1,Tidak,Tidak,3,7,4.0,Ya
+33.0,Jakarta,Toko Offline,Kaos,164000,0,3,Tidak,Tidak,1,5,4.0,Tidak
+24.0,Depok,Toko Offline,Topi,158000,0,4,Tidak,Tidak,3,3,5.0,Ya
+24.0,Depok,TikTok Shop,Kemeja,326000,10,3,Tidak,Tidak,1,4,5.0,Ya
+28.0,Bogor,TikTok Shop,Kaos,144000,10,2,Ya,Tidak,0,2,4.0,Ya
+27.0,Luar Jabodetabek,Instagram,Kaos,219000,10,2,Tidak,Tidak,0,1,3.0,Ya
+22.0,Jakarta,TikTok Shop,Kaos,191000,0,4,Tidak,Tidak,2,6,4.0,Tidak
+23.0,Depok,Instagram,Topi,115000,20,3,Tidak,Tidak,1,7,5.0,Ya
+28.0,Tangerang,Website,Hoodie,406000,10,1,Tidak,Tidak,1,5,4.0,Tidak
+26.0,Tangerang,Shopee,Kaos,187000,30,4,Ya,Ya,2,3,5.0,Ya
+21.0,Bekasi,Website,Tas,276000,10,4,Tidak,Tidak,4,5,4.0,Ya
+31.0,Luar Jabodetabek,Tokopedia,Topi,148000,50,1,Tidak,Ya,1,6,4.0,Tidak
+29.0,Bogor,Instagram,Tas,254000,20,1,Ya,Tidak,0,2,5.0,Ya
+23.0,Tangerang,Instagram,Celana,349000,50,2,Tidak,Tidak,2,2,4.0,Ya
+22.0,Luar Jabodetabek,Toko Offline,Kaos,201000,50,4,Tidak,Tidak,1,2,4.0,Ya
+29.0,Jakarta,Tokopedia,Kaos,228000,0,3,Tidak,Tidak,1,3,4.0,Tidak
+16.0,Jakarta,Instagram,Kaos,124000,50,3,Tidak,Tidak,1,5,4.0,Tidak
+25.0,Depok,Toko Offline,Hoodie,412000,20,2,Tidak,Ya,0,3,4.0,Ya
+22.0,Bekasi,Website,Kaos,170000,20,2,Tidak,Tidak,2,3,5.0,Ya
+21.0,Jakarta,Shopee,Kaos,208000,10,4,Tidak,Tidak,0,4,4.0,Tidak
+29.0,Bogor,Toko Offline,Kemeja,259000,30,2,Tidak,Tidak,2,6,4.0,Tidak
+26.0,Depok,Shopee,Topi,97000,20,2,Ya,Tidak,0,6,5.0,Ya
+40.0,Depok,Shopee,Kaos,190000,30,3,Tidak,Tidak,0,7,4.0,Tidak
+23.0,Depok,Instagram,Jaket,447000,30,3,Tidak,Ya,3,2,5.0,Ya
+26.0,Jakarta,TikTok Shop,Kemeja,301000,30,4,Tidak,Tidak,0,2,5.0,Ya
+18.0,Bekasi,Instagram,Kaos,196000,10,4,Ya,Tidak,3,3,4.0,Ya
+30.0,Bekasi,Toko Offline,Tas,283000,0,3,Tidak,Ya,3,3,3.0,Ya
+22.0,Depok,Tokopedia,Kaos,133000,0,2,Tidak,Tidak,0,1,3.0,Tidak
+26.0,Bekasi,Instagram,Kaos,182000,50,3,Tidak,Tidak,1,1,4.0,Ya
+31.0,Bekasi,Shopee,Celana,348000,0,2,Tidak,Tidak,2,5,5.0,Tidak
+30.0,Bekasi,Shopee,Kaos,222000,10,3,Tidak,Tidak,4,5,3.0,Tidak
+27.0,Jakarta,Instagram,Hoodie,403000,50,1,Tidak,Tidak,3,5,4.0,Ya
+31.0,Bogor,Tokopedia,Celana,333000,20,4,Tidak,Tidak,2,3,5.0,Ya
+22.0,Bekasi,Instagram,Topi,122000,20,4,Ya,Tidak,1,7,4.0,Tidak
+20.0,Bandung,Shopee,Kaos,190000,50,4,Ya,Tidak,2,1,5.0,Ya
+17.0,Tangerang,Shopee,Celana,319000,50,4,Ya,Ya,1,6,5.0,Ya
+27.0,Bekasi,Website,Kaos,169000,10,4,Tidak,Ya,1,2,5.0,Ya
+34.0,Bogor,TikTok Shop,Topi,126000,20,4,Tidak,Tidak,3,2,5.0,Ya
+23.0,Jakarta,Shopee,Tas,328000,0,1,Tidak,Tidak,2,3,4.0,Tidak
+25.0,Luar Jabodetabek,Website,Kaos,200000,50,3,Tidak,Tidak,0,3,5.0,Ya
+23.0,Depok,TikTok Shop,Hoodie,375000,0,3,Ya,Tidak,0,1,5.0,Ya
+27.0,Depok,Shopee,Kaos,190000,0,3,Tidak,Tidak,1,5,4.0,Tidak
+16.0,Bandung,Toko Offline,Kaos,173000,10,3,Tidak,Tidak,1,2,4.0,Tidak
+29.0,Tangerang,Website,Celana,310000,0,3,Tidak,Tidak,1,1,3.0,Ya
+30.0,Bandung,TikTok Shop,Celana,370000,20,4,Ya,Tidak,2,6,5.0,Tidak
+21.0,Bogor,Tokopedia,Topi,140000,10,3,Tidak,Tidak,2,6,5.0,Ya
+20.0,Bogor,Tokopedia,Kaos,160000,10,1,Tidak,Ya,2,2,4.0,Ya
+20.0,Bandung,Shopee,Celana,292000,10,4,Ya,Ya,1,3,4.0,Ya
+27.0,Jakarta,Toko Offline,Hoodie,404000,20,1,Ya,Tidak,1,2,5.0,Ya
+32.0,Luar Jabodetabek,Shopee,Jaket,470000,10,2,Ya,Tidak,0,3,5.0,Tidak
+20.0,Bogor,Website,Hoodie,400000,20,3,Tidak,Tidak,1,5,5.0,Ya
+17.0,Luar Jabodetabek,Tokopedia,Hoodie,426000,20,2,Ya,Tidak,1,5,5.0,Ya
+25.0,Depok,Shopee,Tas,269000,0,4,Ya,Ya,1,3,4.0,Ya
+26.0,Bandung,Instagram,Tas,239000,50,4,Tidak,Tidak,0,7,5.0,Tidak
+28.0,Depok,Shopee,Kemeja,275000,10,2,Tidak,Tidak,0,4,4.0,Tidak
+21.0,Depok,Tokopedia,Celana,354000,20,4,Ya,Tidak,1,7,4.0,Tidak
+28.0,Luar Jabodetabek,Website,Jaket,426000,20,1,Ya,Tidak,0,4,3.0,Tidak
+30.0,Bogor,TikTok Shop,Jaket,382000,50,1,Ya,Tidak,0,7,5.0,Tidak
+16.0,Jakarta,Shopee,Kaos,167000,20,4,Tidak,Tidak,1,5,4.0,Tidak
+23.0,Jakarta,Instagram,Kaos,154000,0,4,Tidak,Tidak,3,4,5.0,Ya
+28.0,Luar Jabodetabek,Tokopedia,Kaos,174000,10,2,Tidak,Ya,1,7,4.0,Ya
+28.0,Depok,TikTok Shop,Kemeja,317000,10,3,Tidak,Tidak,0,2,3.0,Tidak
+22.0,Bekasi,Shopee,Hoodie,424000,30,1,Ya,Tidak,2,1,4.0,Ya
+16.0,Tangerang,Tokopedia,Hoodie,400000,0,1,Ya,Tidak,1,2,4.0,Tidak
+21.0,Tangerang,Instagram,Topi,133000,20,4,Ya,Ya,1,3,5.0,Ya
+17.0,Jakarta,Shopee,Jaket,461000,0,4,Tidak,Tidak,1,6,4.0,Tidak
+22.0,Depok,Instagram,Kaos,185000,0,2,Tidak,Tidak,2,1,4.0,Ya
+30.0,Luar Jabodetabek,Tokopedia,Topi,170000,30,2,Tidak,Tidak,1,2,3.0,Tidak
+21.0,Jakarta,TikTok Shop,Jaket,453000,0,1,Tidak,Tidak,2,2,4.0,Tidak
+25.0,Bekasi,Instagram,Hoodie,399000,0,3,Tidak,Ya,0,5,2.0,Tidak
+18.0,Tangerang,TikTok Shop,Kaos,170000,0,3,Ya,Tidak,1,3,5.0,Tidak
+29.0,Depok,Instagram,Topi,143000,0,1,Tidak,Tidak,0,2,4.0,Tidak
+21.0,Bogor,Website,Topi,167000,20,1,Tidak,Tidak,3,5,5.0,Ya
+19.0,Tangerang,Shopee,Tas,302000,50,4,Ya,Ya,1,5,4.0,Tidak
+34.0,Luar Jabodetabek,Website,Celana,318000,20,1,Tidak,Tidak,1,6,4.0,Tidak
+26.0,Bekasi,TikTok Shop,Celana,339000,30,2,Tidak,Tidak,3,4,3.0,Ya
+28.0,Bandung,Shopee,Hoodie,454000,10,2,Tidak,Ya,5,5,4.0,Ya
+16.0,Bandung,Toko Offline,Hoodie,394000,20,4,Tidak,Tidak,2,2,5.0,Ya
+31.0,Bogor,TikTok Shop,Topi,132000,20,3,Tidak,Tidak,1,2,3.0,Tidak
+33.0,Bandung,Website,Hoodie,371000,0,4,Ya,Tidak,1,1,4.0,Ya
+24.0,Tangerang,Shopee,Jaket,445000,20,1,Tidak,Tidak,2,4,3.0,Tidak
+23.0,Tangerang,Toko Offline,Hoodie,440000,10,4,Tidak,Tidak,0,3,4.0,Tidak
+21.0,Luar Jabodetabek,Shopee,Kemeja,273000,20,3,Ya,Ya,1,3,5.0,Ya
+30.0,Tangerang,Tokopedia,Topi,115000,0,3,Tidak,Ya,3,1,3.0,Ya
+17.0,Depok,Instagram,Celana,349000,0,4,Ya,Tidak,2,3,5.0,Ya
+26.0,Depok,Instagram,Topi,129000,0,1,Tidak,Tidak,2,3,4.0,Ya
+34.0,Tangerang,Instagram,Hoodie,435000,10,3,Tidak,Tidak,0,7,4.0,Tidak
+25.0,Jakarta,Instagram,Celana,364000,0,3,Tidak,Ya,1,3,5.0,Ya
+34.0,Bandung,Shopee,Celana,345000,20,2,Tidak,Tidak,1,3,4.0,Tidak
+24.0,Bogor,Shopee,Hoodie,381000,10,2,Ya,Ya,4,3,,Ya
+23.0,Bandung,Instagram,Kemeja,281000,10,1,Tidak,Tidak,3,4,4.0,Ya
+29.0,Tangerang,Toko Offline,Jaket,446000,0,2,Tidak,Tidak,2,5,4.0,Tidak
+24.0,Jakarta,Instagram,Hoodie,418000,0,3,Ya,Ya,1,3,5.0,Ya
+25.0,Depok,Website,Kaos,156000,30,1,Ya,Ya,2,1,5.0,Ya
+22.0,Bandung,Tokopedia,Tas,284000,30,3,Tidak,Ya,1,3,4.0,Ya
+18.0,Bekasi,Website,Celana,302000,50,1,Tidak,Tidak,4,1,4.0,Ya
+23.0,Bogor,Tokopedia,Kaos,170000,20,3,Tidak,Tidak,1,3,3.0,Tidak
+28.0,Bogor,Toko Offline,Topi,157000,30,3,Ya,Ya,2,3,5.0,Ya
+30.0,Tangerang,Shopee,Kaos,181000,0,4,Ya,Tidak,0,5,,Tidak
+24.0,Tangerang,Toko Offline,Kaos,192000,20,4,Ya,Tidak,2,6,4.0,Tidak
+26.0,Bogor,Shopee,Celana,312000,10,1,Tidak,Tidak,4,1,5.0,Ya
+20.0,Bandung,Shopee,Tas,232000,50,3,Tidak,Tidak,1,1,4.0,Tidak
+23.0,Jakarta,Toko Offline,Topi,167000,10,2,Tidak,Tidak,1,7,5.0,Tidak
+24.0,Jakarta,Website,Hoodie,439000,30,1,Tidak,Tidak,1,5,4.0,Tidak
+24.0,Bandung,Shopee,Kaos,124000,30,3,Ya,Ya,1,6,4.0,Ya
+25.0,Tangerang,TikTok Shop,Kaos,203000,0,4,Tidak,Tidak,1,1,4.0,Tidak
+26.0,Bekasi,TikTok Shop,Hoodie,402000,20,4,Ya,Tidak,1,6,5.0,Ya
+30.0,Bandung,Instagram,Kaos,200000,0,2,Tidak,Tidak,0,3,3.0,Tidak
+28.0,Luar Jabodetabek,Instagram,Hoodie,398000,10,2,Ya,Tidak,0,8,5.0,Tidak
+27.0,Luar Jabodetabek,Tokopedia,Kemeja,296000,30,4,Ya,Tidak,3,2,5.0,Ya
+18.0,Bandung,TikTok Shop,Tas,281000,20,1,Ya,Tidak,1,5,4.0,Tidak
+20.0,Tangerang,Website,Kaos,190000,0,3,Ya,Ya,1,4,5.0,Ya
+25.0,Tangerang,Shopee,Topi,151000,0,2,Tidak,Tidak,3,9,3.0,Tidak
+25.0,Bekasi,Toko Offline,Kemeja,322000,10,3,Tidak,Ya,2,9,5.0,Ya
+28.0,Jakarta,Shopee,Tas,248000,0,1,Tidak,Tidak,2,1,5.0,Ya
+16.0,Bandung,Shopee,Celana,329000,20,3,Ya,Tidak,3,2,5.0,Ya
+25.0,Depok,Instagram,Hoodie,398000,30,4,Tidak,Tidak,1,1,4.0,Ya
+25.0,Tangerang,Tokopedia,Kemeja,299000,30,1,Tidak,Ya,3,5,4.0,Tidak
+23.0,Depok,Shopee,Topi,170000,10,4,Tidak,Tidak,0,2,4.0,Tidak
+20.0,Tangerang,Tokopedia,Celana,335000,0,1,Tidak,Tidak,2,4,5.0,Tidak
+26.0,Jakarta,Shopee,Kaos,221000,50,1,Ya,Tidak,0,4,4.0,Tidak
+24.0,Jakarta,Tokopedia,Kemeja,328000,30,1,Tidak,Tidak,1,6,4.0,Tidak
+27.0,Bekasi,Shopee,Kaos,186000,0,4,Tidak,Ya,1,4,3.0,Tidak
+16.0,Tangerang,Website,Kaos,199000,0,2,Tidak,Tidak,0,2,5.0,Ya
+20.0,Tangerang,Website,Jaket,453000,30,4,Tidak,Tidak,3,4,3.0,Ya
+32.0,Bekasi,TikTok Shop,Kaos,151000,10,4,Tidak,Ya,1,7,5.0,Tidak
+26.0,Bekasi,Instagram,Kemeja,289000,20,4,Tidak,Ya,2,8,4.0,Tidak
+21.0,Tangerang,Shopee,Celana,372000,10,3,Tidak,Ya,2,5,5.0,Ya
+23.0,Bogor,Website,Kaos,204000,0,3,Tidak,Ya,1,5,5.0,Ya
+18.0,Depok,Shopee,Topi,126000,10,4,Tidak,Tidak,0,2,5.0,Ya
+31.0,Tangerang,Shopee,Jaket,467000,30,3,Tidak,Tidak,2,5,4.0,Tidak
+32.0,Bogor,Tokopedia,Kaos,161000,0,2,Tidak,Tidak,0,3,3.0,Tidak
+29.0,Luar Jabodetabek,Website,Kemeja,281000,20,4,Tidak,Tidak,1,4,5.0,Ya
+30.0,Tangerang,Shopee,Jaket,450000,0,3,Tidak,Tidak,2,4,4.0,Ya
+27.0,Depok,Toko Offline,Tas,318000,0,4,Tidak,Tidak,2,5,3.0,Tidak
+31.0,Jakarta,Shopee,Tas,255000,10,1,Tidak,Tidak,2,4,5.0,Tidak
+28.0,Luar Jabodetabek,Website,Topi,168000,0,1,Ya,Ya,2,5,3.0,Tidak
+31.0,Bekasi,Shopee,Topi,178000,0,1,Ya,Tidak,4,4,4.0,Ya
+24.0,Bekasi,Shopee,Kaos,125000,10,3,Ya,Tidak,0,4,5.0,Ya
+24.0,Luar Jabodetabek,Shopee,Tas,270000,0,4,Ya,Tidak,2,5,5.0,Ya
+22.0,Tangerang,Instagram,Kaos,191000,0,2,Tidak,Tidak,1,2,5.0,Ya
+22.0,Luar Jabodetabek,Toko Offline,Kaos,152000,10,4,Tidak,Tidak,4,4,5.0,Ya
+17.0,Tangerang,Shopee,Kaos,222000,30,3,Ya,Tidak,2,2,4.0,Ya
+31.0,Luar Jabodetabek,TikTok Shop,Kemeja,277000,10,4,Ya,Ya,3,2,5.0,Ya
+31.0,Luar Jabodetabek,Shopee,Tas,320000,0,1,Ya,Tidak,0,3,5.0,Tidak
+28.0,Bekasi,Website,Kaos,167000,50,1,Tidak,Tidak,1,2,5.0,Ya
+29.0,Luar Jabodetabek,Tokopedia,Jaket,437000,10,3,Tidak,Tidak,2,3,4.0,Ya
+26.0,Bogor,Shopee,Tas,324000,20,4,Tidak,Tidak,1,3,3.0,Tidak
+27.0,Depok,Shopee,Kaos,190000,10,2,Tidak,Tidak,1,3,5.0,Ya
+18.0,Depok,Shopee,Kaos,170000,10,4,Ya,Tidak,3,3,4.0,Ya
+24.0,Luar Jabodetabek,Toko Offline,Jaket,428000,0,1,Tidak,Tidak,2,9,5.0,Tidak
+16.0,Bekasi,Instagram,Kemeja,331000,0,4,Tidak,Tidak,0,6,4.0,Tidak
+21.0,Jakarta,Toko Offline,Jaket,473000,0,3,Tidak,Tidak,2,3,5.0,Ya
+23.0,Bekasi,Instagram,Hoodie,355000,0,3,Ya,Tidak,4,4,5.0,Ya
+23.0,Jakarta,Shopee,Kemeja,288000,10,4,Ya,Tidak,0,4,4.0,Tidak
+19.0,Tangerang,Website,Kemeja,290000,0,4,Tidak,Ya,2,1,4.0,Ya
+31.0,Luar Jabodetabek,Tokopedia,Topi,151000,30,2,Ya,Tidak,3,1,4.0,Ya
+29.0,Jakarta,TikTok Shop,Kaos,180000,0,3,Ya,Tidak,2,6,4.0,Ya
+22.0,Bandung,Shopee,Kaos,157000,50,2,Ya,Tidak,3,5,4.0,Ya
+18.0,Tangerang,Website,Celana,302000,30,4,Tidak,Ya,1,4,4.0,Ya
+22.0,Depok,Tokopedia,Topi,121000,30,2,Ya,Tidak,1,6,4.0,Tidak
+29.0,Jakarta,Instagram,Hoodie,419000,0,1,Tidak,Tidak,1,3,5.0,Ya
+16.0,Tangerang,Tokopedia,Topi,148000,0,1,Tidak,Tidak,2,6,2.0,Tidak
+28.0,Bekasi,Shopee,Kaos,194000,30,3,Tidak,Ya,0,4,3.0,Tidak
+24.0,Jakarta,Tokopedia,Tas,285000,0,4,Tidak,Tidak,4,3,2.0,Tidak
+23.0,Bekasi,Shopee,Kaos,203000,0,3,Tidak,Ya,3,1,4.0,Ya
+30.0,Bandung,Toko Offline,Hoodie,425000,0,3,Tidak,Tidak,0,1,5.0,Ya
+25.0,Jakarta,Instagram,Kaos,180000,0,2,Tidak,Tidak,1,4,5.0,Ya
+23.0,Bandung,Website,Hoodie,385000,20,1,Ya,Tidak,4,1,4.0,Ya
+31.0,Bandung,Website,Hoodie,403000,10,4,Tidak,Ya,0,3,3.0,Tidak
+17.0,Bekasi,Toko Offline,Hoodie,392000,0,1,Ya,Tidak,0,2,4.0,Tidak
+32.0,Tangerang,Instagram,Kaos,211000,0,1,Tidak,Ya,0,3,5.0,Tidak
+20.0,Bandung,Toko Offline,Hoodie,399000,0,3,Ya,Tidak,3,3,5.0,Ya
+20.0,Bekasi,Website,Kemeja,294000,0,2,Ya,Tidak,3,6,4.0,Ya
+32.0,Tangerang,TikTok Shop,Kaos,180000,0,3,Tidak,Tidak,1,5,5.0,Tidak
+41.0,Bandung,Website,Jaket,483000,20,1,Ya,Tidak,3,3,4.0,Ya
+31.0,Tangerang,Instagram,Hoodie,380000,20,1,Ya,Tidak,2,1,5.0,Ya
+20.0,Jakarta,Instagram,Topi,145000,10,4,Tidak,Tidak,1,3,4.0,Ya
+16.0,Tangerang,Shopee,Kaos,185000,20,1,Ya,Ya,3,4,3.0,Ya
+26.0,Luar Jabodetabek,Tokopedia,Celana,381000,50,1,Ya,Tidak,1,3,5.0,Ya
+25.0,Bekasi,Instagram,Kaos,170000,0,2,Tidak,Ya,0,1,3.0,Tidak
+22.0,Bogor,Toko Offline,Hoodie,395000,0,4,Tidak,Tidak,2,1,5.0,Ya
+24.0,Tangerang,TikTok Shop,Celana,305000,30,3,Tidak,Tidak,3,4,4.0,Tidak
+21.0,Luar Jabodetabek,Website,Jaket,491000,0,3,Tidak,Tidak,1,1,4.0,Ya
+29.0,Depok,TikTok Shop,Kaos,196000,10,3,Tidak,Ya,2,5,3.0,Tidak
+24.0,Bandung,Shopee,Hoodie,411000,0,2,Tidak,Ya,0,5,4.0,Tidak
+23.0,Jakarta,Tokopedia,Hoodie,423000,30,4,Tidak,Tidak,1,3,4.0,Ya
+,Jakarta,Instagram,Topi,151000,10,2,Tidak,Tidak,3,3,,Ya
+26.0,Jakarta,TikTok Shop,Kemeja,292000,0,3,Ya,Tidak,1,4,5.0,Ya
+17.0,Tangerang,Instagram,Celana,293000,10,1,Ya,Tidak,1,6,5.0,Ya
+28.0,Tangerang,TikTok Shop,Kemeja,301000,0,1,Ya,Tidak,3,1,5.0,Ya
+24.0,Tangerang,Tokopedia,Topi,131000,20,4,Ya,Tidak,1,4,5.0,Ya
+16.0,Luar Jabodetabek,Tokopedia,Celana,365000,0,2,Tidak,Tidak,0,5,5.0,Tidak
+23.0,Bekasi,Shopee,Kaos,167000,20,4,Tidak,Ya,0,3,3.0,Tidak
+19.0,Jakarta,Shopee,Kaos,161000,0,4,Tidak,Ya,0,7,5.0,Tidak
+27.0,Bogor,Shopee,Celana,308000,20,1,Tidak,Tidak,1,4,3.0,Tidak
+27.0,Luar Jabodetabek,Instagram,Kaos,194000,10,2,Ya,Tidak,2,6,4.0,Ya
+30.0,Tangerang,Shopee,Jaket,496000,30,1,Ya,Tidak,0,4,4.0,Tidak
+21.0,Jakarta,TikTok Shop,Kaos,204000,0,4,Tidak,Tidak,0,2,4.0,Ya
+27.0,Tangerang,Website,Topi,94000,10,3,Tidak,Ya,1,6,5.0,Ya
+18.0,Bekasi,Tokopedia,Topi,156000,30,4,Tidak,Ya,0,1,5.0,Ya
+26.0,Bogor,TikTok Shop,Hoodie,407000,0,1,Ya,Ya,0,2,4.0,Tidak
+23.0,Tangerang,Tokopedia,Celana,389000,50,3,Tidak,Tidak,3,3,3.0,Ya
+26.0,Depok,Tokopedia,Kaos,192000,0,1,Tidak,Tidak,1,3,4.0,Tidak
+24.0,Luar Jabodetabek,Toko Offline,Kaos,146000,50,2,Tidak,Tidak,1,1,5.0,Ya
+29.0,Bandung,Instagram,Hoodie,384000,0,2,Tidak,Ya,2,5,3.0,Tidak
+23.0,Jakarta,Instagram,Celana,301000,0,3,Ya,Tidak,2,5,5.0,Ya
+23.0,Tangerang,TikTok Shop,Kaos,199000,0,4,Ya,Tidak,5,1,4.0,Ya
+31.0,Tangerang,Instagram,Kaos,205000,50,3,Tidak,Tidak,1,2,5.0,Ya
+24.0,Depok,TikTok Shop,Hoodie,437000,10,2,Tidak,Tidak,0,3,4.0,Tidak
+22.0,Tangerang,Shopee,Hoodie,427000,30,2,Ya,Tidak,2,1,5.0,Ya
+20.0,Bekasi,Instagram,Kemeja,275000,10,2,Tidak,Ya,0,1,4.0,Ya
+24.0,Jakarta,Instagram,Celana,315000,30,2,Tidak,Tidak,3,1,5.0,Ya
+24.0,Bekasi,Instagram,Jaket,452000,10,4,Tidak,Ya,1,4,4.0,Tidak
+28.0,Luar Jabodetabek,Website,Hoodie,399000,10,3,Tidak,Tidak,2,2,5.0,Ya
+24.0,Bogor,Shopee,Jaket,455000,0,4,Ya,Tidak,3,2,5.0,Ya
+28.0,Luar Jabodetabek,Tokopedia,Topi,202000,10,1,Ya,Ya,0,2,4.0,Ya
+23.0,Jakarta,Instagram,Kaos,164000,0,4,Tidak,Tidak,2,1,4.0,Ya
+32.0,Tangerang,Website,Hoodie,393000,10,2,Ya,Tidak,2,3,3.0,Tidak
+24.0,Tangerang,Shopee,Celana,320000,20,1,Tidak,Ya,1,4,5.0,Ya
+28.0,Bekasi,Shopee,Jaket,428000,20,1,Ya,Tidak,1,3,3.0,Tidak
+26.0,Tangerang,Toko Offline,Kaos,148000,10,4,Tidak,Tidak,1,4,2.0,Tidak
+18.0,Depok,Toko Offline,Hoodie,381000,30,4,Ya,Tidak,1,5,3.0,Tidak
+29.0,Depok,Tokopedia,Hoodie,364000,20,4,Ya,Ya,2,4,5.0,Ya
+22.0,Tangerang,Shopee,Tas,307000,0,2,Ya,Tidak,1,2,4.0,Tidak
+29.0,Luar Jabodetabek,Shopee,Jaket,417000,20,2,Tidak,Tidak,2,4,3.0,Tidak
+16.0,Luar Jabodetabek,Shopee,Kaos,157000,0,2,Ya,Ya,1,2,3.0,Tidak
+16.0,Jakarta,TikTok Shop,Jaket,409000,10,2,Tidak,Tidak,2,7,5.0,Tidak
+16.0,Tangerang,Tokopedia,Celana,334000,10,4,Ya,Ya,0,4,5.0,Tidak
+16.0,Bogor,Instagram,Kaos,155000,20,3,Ya,Tidak,1,2,4.0,Ya
+22.0,Depok,Instagram,Celana,357000,20,2,Tidak,Tidak,3,4,3.0,Tidak
+24.0,Bandung,Website,Kemeja,270000,0,4,Tidak,Tidak,5,5,5.0,Ya
+19.0,Luar Jabodetabek,Website,Kemeja,313000,20,3,Tidak,Tidak,3,4,4.0,Ya
+23.0,Jakarta,Website,Hoodie,335000,10,1,Tidak,Ya,1,4,4.0,Tidak
+21.0,Jakarta,Instagram,Kemeja,281000,0,4,Ya,Ya,2,1,3.0,Ya
+28.0,Jakarta,Website,Kaos,160000,0,2,Tidak,Ya,0,3,5.0,Ya
+28.0,Depok,TikTok Shop,Jaket,442000,0,3,Ya,Tidak,0,5,3.0,Tidak
+26.0,Tangerang,Instagram,Topi,120000,30,1,Tidak,Ya,5,5,3.0,Ya
+27.0,Tangerang,Shopee,Kaos,191000,10,1,Tidak,Tidak,0,4,3.0,Tidak
+33.0,Jakarta,Instagram,Jaket,428000,30,4,Tidak,Tidak,1,4,4.0,Ya
+27.0,Jakarta,Shopee,Kaos,175000,10,4,Ya,Tidak,0,3,5.0,Ya
+17.0,Tangerang,Tokopedia,Topi,163000,20,1,Ya,Tidak,0,4,4.0,Tidak
+,Tangerang,Website,Kaos,182000,50,1,Tidak,Tidak,3,1,3.0,Ya
+23.0,Jakarta,Toko Offline,Hoodie,424000,20,4,Ya,Tidak,1,4,5.0,Ya
+28.0,Tangerang,Website,Hoodie,390000,10,4,Ya,Tidak,1,1,4.0,Ya
+27.0,Jakarta,Instagram,Kaos,159000,20,1,Tidak,Tidak,0,5,4.0,Tidak
+29.0,Jakarta,TikTok Shop,Kemeja,314000,0,1,Tidak,Ya,3,3,4.0,Ya
+17.0,Bekasi,Instagram,Kaos,178000,10,3,Tidak,Tidak,1,1,5.0,Ya
+31.0,Depok,Instagram,Kaos,164000,20,1,Tidak,Tidak,1,4,4.0,Tidak
+24.0,Bandung,Toko Offline,Jaket,460000,0,2,Tidak,Ya,1,2,4.0,Ya
+29.0,Depok,Shopee,Hoodie,413000,10,1,Tidak,Ya,2,2,5.0,Ya
+27.0,Tangerang,Tokopedia,Celana,348000,0,1,Tidak,Tidak,1,1,5.0,Ya
+20.0,Tangerang,Toko Offline,Kemeja,322000,50,3,Ya,Ya,2,1,4.0,Ya
+20.0,Jakarta,Shopee,Kemeja,279000,10,1,Tidak,Tidak,1,3,5.0,Tidak
+27.0,Luar Jabodetabek,TikTok Shop,Kaos,174000,10,3,Ya,Tidak,3,3,4.0,Ya
+30.0,Luar Jabodetabek,Shopee,Kaos,166000,10,4,Ya,Tidak,2,2,4.0,Ya
+20.0,Tangerang,Website,Kemeja,296000,0,1,Ya,Ya,4,4,4.0,Ya
+19.0,Jakarta,Shopee,Tas,249000,0,1,Tidak,Tidak,5,6,5.0,Ya
+16.0,Jakarta,Website,Kaos,183000,20,3,Tidak,Tidak,4,4,5.0,Ya
+20.0,Luar Jabodetabek,Website,Kaos,205000,10,2,Ya,Ya,2,6,3.0,Ya
+20.0,Depok,Toko Offline,Topi,161000,0,4,Tidak,Tidak,2,2,5.0,Ya
+23.0,Bogor,Toko Offline,Kaos,152000,0,2,Ya,Tidak,2,3,4.0,Ya
+27.0,Bandung,Shopee,Kaos,170000,0,4,Ya,Tidak,3,5,4.0,Ya
+22.0,Tangerang,TikTok Shop,Kaos,187000,0,3,Tidak,Ya,1,3,,Ya
+19.0,Bekasi,Shopee,Jaket,491000,10,1,Tidak,Ya,0,3,5.0,Ya
+22.0,Depok,Tokopedia,Jaket,438000,30,1,Ya,Tidak,2,3,3.0,Ya
+24.0,Bogor,TikTok Shop,Kemeja,300000,30,3,Tidak,Tidak,2,7,4.0,Tidak
+25.0,Tangerang,Website,Jaket,439000,20,2,Tidak,Tidak,2,4,4.0,Tidak
+25.0,Luar Jabodetabek,Shopee,Tas,257000,10,4,Ya,Tidak,1,6,5.0,Ya
+23.0,Bandung,Toko Offline,Kaos,183000,30,2,Tidak,Tidak,3,1,4.0,Ya
+27.0,Depok,Shopee,Kaos,192000,20,1,Ya,Tidak,2,3,3.0,Ya
+23.0,Luar Jabodetabek,Toko Offline,Tas,274000,20,4,Ya,Tidak,1,4,4.0,Ya
+19.0,Bekasi,Toko Offline,Jaket,477000,0,3,Tidak,Ya,1,2,4.0,Ya
+23.0,Bandung,TikTok Shop,Topi,144000,50,3,Ya,Ya,4,5,4.0,Ya
+33.0,Jakarta,Tokopedia,Tas,271000,0,3,Ya,Tidak,2,2,5.0,Ya
+20.0,Luar Jabodetabek,Instagram,Kaos,194000,10,1,Ya,Ya,1,4,4.0,Ya
+36.0,Luar Jabodetabek,Toko Offline,Kaos,208000,0,3,Ya,Tidak,0,5,4.0,Tidak
+22.0,Tangerang,TikTok Shop,Tas,275000,50,3,Tidak,Ya,0,4,3.0,Tidak
+28.0,Jakarta,Shopee,Kemeja,330000,30,3,Tidak,Ya,1,5,3.0,Ya
+16.0,Bekasi,Instagram,Hoodie,425000,50,4,Ya,Tidak,3,2,5.0,Ya
+23.0,Bogor,Instagram,Kaos,180000,0,2,Tidak,Tidak,2,5,3.0,Tidak
+31.0,Bogor,Instagram,Kaos,218000,0,2,Tidak,Tidak,1,8,4.0,Tidak
+18.0,Depok,Shopee,Jaket,473000,30,2,Tidak,Tidak,1,4,5.0,Tidak
+20.0,Bekasi,Toko Offline,Celana,353000,30,3,Tidak,Tidak,1,5,4.0,Tidak
+26.0,Bogor,TikTok Shop,Topi,169000,10,4,Tidak,Ya,0,2,3.0,Tidak
+26.0,Jakarta,Toko Offline,Hoodie,347000,0,4,Tidak,Tidak,2,5,5.0,Ya
+17.0,Tangerang,TikTok Shop,Topi,141000,30,3,Tidak,Ya,4,3,5.0,Ya
+,Bandung,Website,Topi,203000,0,4,Tidak,Ya,0,4,4.0,Ya
+25.0,Bogor,Shopee,Kaos,169000,50,3,Tidak,Ya,2,2,4.0,Ya
+25.0,Bekasi,Shopee,Topi,177000,10,2,Tidak,Tidak,2,3,4.0,Tidak
+28.0,Tangerang,Instagram,Kaos,143000,10,2,Ya,Ya,2,1,3.0,Ya
+23.0,Tangerang,Tokopedia,Kaos,194000,0,1,Tidak,Tidak,1,1,3.0,Tidak
+,Bekasi,Shopee,Hoodie,380000,10,4,Tidak,Ya,2,6,5.0,Ya
+30.0,Tangerang,TikTok Shop,Tas,274000,30,4,Tidak,Tidak,1,2,3.0,Tidak
+18.0,Tangerang,Toko Offline,Topi,125000,30,1,Ya,Ya,2,6,4.0,Ya
+29.0,Tangerang,Tokopedia,Jaket,455000,0,3,Tidak,Tidak,2,4,5.0,Ya
+28.0,Jakarta,Toko Offline,Kaos,168000,30,3,Tidak,Tidak,2,3,5.0,Ya
+30.0,Bandung,Shopee,Tas,286000,20,4,Tidak,Ya,3,7,3.0,Tidak
+22.0,Bandung,Instagram,Jaket,444000,0,4,Tidak,Tidak,0,1,5.0,Ya
+24.0,Bandung,Shopee,Kemeja,312000,0,4,Tidak,Ya,1,3,4.0,Ya
+24.0,Depok,TikTok Shop,Kaos,163000,0,3,Ya,Tidak,3,2,5.0,Ya
+22.0,Depok,TikTok Shop,Kaos,179000,20,4,Ya,Tidak,1,4,4.0,Tidak
+29.0,Jakarta,Shopee,Kaos,122000,0,4,Tidak,Tidak,0,6,5.0,Tidak
+25.0,Depok,Toko Offline,Jaket,460000,0,2,Tidak,Tidak,0,1,4.0,Tidak
+19.0,Jakarta,Instagram,Hoodie,391000,50,1,Tidak,Tidak,2,2,5.0,Ya
+25.0,Jakarta,Website,Kaos,192000,0,1,Tidak,Tidak,1,2,3.0,Tidak
+19.0,Tangerang,Shopee,Jaket,459000,20,4,Tidak,Tidak,2,3,4.0,Tidak
+16.0,Bekasi,Tokopedia,Kaos,211000,0,1,Ya,Tidak,0,2,5.0,Tidak
+19.0,Jakarta,TikTok Shop,Celana,293000,0,1,Ya,Ya,2,4,5.0,Ya
+24.0,Depok,Tokopedia,Hoodie,382000,50,1,Ya,Tidak,2,1,4.0,Ya
+25.0,Tangerang,Shopee,Celana,287000,10,4,Tidak,Tidak,1,3,4.0,Tidak
+23.0,Jakarta,Tokopedia,Celana,320000,50,2,Ya,Tidak,1,3,4.0,Ya
+27.0,Bekasi,TikTok Shop,Hoodie,411000,20,4,Tidak,Ya,4,4,4.0,Ya
+33.0,Bekasi,Tokopedia,Tas,285000,50,4,Ya,Tidak,0,5,4.0,Tidak
+18.0,Bogor,Shopee,Jaket,458000,0,2,Ya,Tidak,2,2,2.0,Tidak
+26.0,Bogor,Instagram,Kaos,206000,20,2,Tidak,Tidak,0,1,4.0,Tidak
+25.0,Tangerang,Shopee,Topi,144000,50,3,Tidak,Tidak,3,5,4.0,Tidak
+18.0,Jakarta,TikTok Shop,Kaos,170000,0,2,Tidak,Tidak,0,3,4.0,Tidak
+,Jakarta,Tokopedia,Hoodie,425000,0,3,Tidak,Ya,2,1,5.0,Ya
+25.0,Luar Jabodetabek,TikTok Shop,Kemeja,325000,10,2,Ya,Tidak,2,4,5.0,Ya
+24.0,Bekasi,Shopee,Kaos,131000,20,2,Tidak,Tidak,1,2,4.0,Tidak
+20.0,Jakarta,Shopee,Kaos,187000,20,4,Ya,Ya,1,3,5.0,Ya
+,Jakarta,Instagram,Kaos,200000,0,3,Tidak,Tidak,0,2,4.0,Ya
+25.0,Jakarta,TikTok Shop,Tas,269000,0,3,Tidak,Tidak,3,5,4.0,Tidak
+27.0,Depok,TikTok Shop,Kemeja,295000,0,2,Tidak,Tidak,0,3,,Ya
+32.0,Tangerang,Shopee,Kemeja,311000,20,2,Tidak,Tidak,1,3,4.0,Tidak
+18.0,Tangerang,Website,Jaket,419000,20,3,Tidak,Ya,1,1,3.0,Ya
+29.0,Tangerang,Shopee,Kaos,163000,10,2,Tidak,Tidak,3,2,3.0,Ya
+26.0,Bekasi,Tokopedia,Kaos,167000,0,2,Tidak,Tidak,4,3,5.0,Ya
+20.0,Luar Jabodetabek,Shopee,Hoodie,385000,0,3,Tidak,Tidak,1,4,3.0,Tidak
+24.0,Jakarta,Shopee,Kaos,205000,10,3,Ya,Tidak,1,5,5.0,Ya
+22.0,Depok,Toko Offline,Celana,353000,20,4,Tidak,Ya,4,3,4.0,Ya
+18.0,Jakarta,TikTok Shop,Topi,132000,10,4,Tidak,Tidak,0,7,5.0,Tidak
+28.0,Jakarta,Website,Jaket,501000,20,2,Tidak,Tidak,4,1,,Ya
+20.0,Bogor,Instagram,Kaos,140000,0,4,Tidak,Tidak,2,6,5.0,Ya
+16.0,Luar Jabodetabek,Tokopedia,Kemeja,305000,50,2,Tidak,Tidak,1,6,5.0,Tidak
+28.0,Jakarta,Shopee,Jaket,433000,0,3,Tidak,Tidak,1,3,4.0,Tidak
+22.0,Bandung,TikTok Shop,Kaos,158000,10,1,Tidak,Tidak,1,6,4.0,Tidak
+26.0,Jakarta,TikTok Shop,Tas,272000,10,2,Tidak,Ya,0,4,4.0,Ya
+25.0,Depok,Toko Offline,Kaos,222000,0,2,Tidak,Tidak,3,3,4.0,Ya
+23.0,Bekasi,Instagram,Topi,166000,0,2,Tidak,Tidak,1,2,3.0,Tidak
+22.0,Luar Jabodetabek,Tokopedia,Topi,140000,10,3,Tidak,Tidak,0,3,3.0,Tidak
+16.0,Jakarta,Instagram,Celana,313000,10,3,Ya,Tidak,1,1,5.0,Ya
+22.0,Bandung,Website,Kaos,177000,30,4,Tidak,Tidak,0,4,4.0,Ya
+18.0,Jakarta,TikTok Shop,Topi,128000,10,1,Ya,Tidak,0,5,3.0,Tidak
+26.0,Tangerang,Website,Kemeja,338000,0,4,Ya,Ya,2,2,3.0,Ya
+20.0,Tangerang,Tokopedia,Hoodie,373000,10,3,Tidak,Ya,2,5,5.0,Ya
+21.0,Bogor,Tokopedia,Kemeja,260000,50,1,Tidak,Tidak,2,4,4.0,Tidak
+24.0,Luar Jabodetabek,TikTok Shop,Celana,341000,10,4,Tidak,Tidak,2,5,4.0,Tidak
+18.0,Luar Jabodetabek,Shopee,Tas,350000,20,2,Tidak,Ya,0,4,5.0,Ya
+21.0,Depok,Instagram,Kaos,176000,20,2,Tidak,Tidak,1,1,3.0,Tidak
+22.0,Tangerang,Website,Hoodie,388000,0,2,Tidak,Tidak,3,2,5.0,Ya
+26.0,Bogor,TikTok Shop,Tas,283000,30,4,Ya,Tidak,1,5,,Tidak
+17.0,Tangerang,TikTok Shop,Tas,275000,0,1,Ya,Ya,1,3,5.0,Ya
+28.0,Bekasi,TikTok Shop,Topi,150000,20,2,Tidak,Tidak,3,4,3.0,Tidak
+23.0,Tangerang,Shopee,Tas,300000,0,2,Tidak,Ya,1,6,3.0,Tidak
+22.0,Bogor,Website,Kaos,199000,20,4,Tidak,Ya,1,1,4.0,Ya
+26.0,Tangerang,Tokopedia,Hoodie,376000,20,1,Tidak,Ya,0,2,3.0,Tidak
+29.0,Jakarta,Shopee,Kemeja,293000,20,2,Tidak,Tidak,3,3,4.0,Tidak
+30.0,Tangerang,Shopee,Kaos,207000,30,1,Tidak,Tidak,2,1,5.0,Ya
+19.0,Tangerang,TikTok Shop,Topi,102000,0,1,Tidak,Tidak,3,2,5.0,Ya
+31.0,Jakarta,Instagram,Kaos,155000,30,2,Ya,Tidak,1,4,5.0,Ya
+24.0,Depok,TikTok Shop,Kaos,184000,30,3,Ya,Tidak,1,1,4.0,Tidak
+30.0,Bandung,Toko Offline,Hoodie,398000,50,2,Tidak,Tidak,2,3,5.0,Ya
+19.0,Jakarta,Instagram,Kemeja,346000,0,3,Ya,Ya,3,7,5.0,Ya
+23.0,Luar Jabodetabek,Instagram,Kaos,171000,0,2,Ya,Ya,4,3,5.0,Ya
+23.0,Bogor,Tokopedia,Kaos,214000,0,4,Tidak,Tidak,1,4,4.0,Tidak
+18.0,Luar Jabodetabek,Shopee,Hoodie,401000,0,4,Tidak,Tidak,2,4,5.0,Ya
+22.0,Jakarta,Toko Offline,Topi,134000,20,3,Tidak,Tidak,0,3,5.0,Tidak
+28.0,Luar Jabodetabek,Website,Celana,372000,0,1,Ya,Tidak,0,4,4.0,Tidak
+29.0,Bogor,TikTok Shop,Kaos,164000,0,4,Tidak,Ya,0,3,4.0,Ya
+27.0,Tangerang,Website,Celana,355000,20,3,Tidak,Tidak,1,2,4.0,Ya
+25.0,Depok,Toko Offline,Kemeja,319000,0,2,Tidak,Tidak,1,3,5.0,Ya
+22.0,Depok,Website,Jaket,472000,50,1,Tidak,Tidak,1,3,4.0,Ya
+34.0,Bekasi,Instagram,Hoodie,402000,0,2,Tidak,Tidak,1,3,4.0,Tidak
+17.0,Luar Jabodetabek,Website,Kaos,191000,0,4,Tidak,Tidak,2,4,5.0,Ya
+18.0,Bogor,Toko Offline,Kaos,196000,0,2,Tidak,Tidak,1,6,5.0,Ya
+20.0,Jakarta,Toko Offline,Kaos,173000,20,2,Ya,Ya,4,3,5.0,Ya
+25.0,Tangerang,TikTok Shop,Kaos,175000,0,1,Ya,Ya,2,3,4.0,Ya
+22.0,Tangerang,TikTok Shop,Hoodie,384000,0,4,Ya,Tidak,3,2,4.0,Ya
+,Bogor,Shopee,Kemeja,300000,50,3,Tidak,Ya,2,3,4.0,Ya
+16.0,Luar Jabodetabek,Shopee,Kaos,224000,30,3,Tidak,Tidak,0,3,5.0,Tidak
+28.0,Tangerang,TikTok Shop,Jaket,468000,30,2,Tidak,Tidak,3,6,5.0,Ya
+32.0,Depok,Shopee,Jaket,456000,0,2,Tidak,Tidak,2,3,5.0,Ya
+28.0,Jakarta,Toko Offline,Celana,303000,50,4,Tidak,Ya,3,4,4.0,Ya
+22.0,Bandung,Instagram,Topi,143000,30,4,Ya,Tidak,2,2,4.0,Ya
+,Bandung,Tokopedia,Jaket,423000,30,1,Tidak,Tidak,1,3,4.0,Tidak
+29.0,Depok,TikTok Shop,Hoodie,390000,20,1,Ya,Ya,2,6,4.0,Ya
+16.0,Bekasi,Tokopedia,Kaos,182000,20,1,Ya,Tidak,1,6,4.0,Tidak
+20.0,Luar Jabodetabek,TikTok Shop,Hoodie,369000,30,4,Tidak,Ya,1,3,5.0,Ya
+16.0,Jakarta,TikTok Shop,Kaos,161000,10,1,Tidak,Tidak,4,6,4.0,Ya
+23.0,Bandung,TikTok Shop,Kaos,189000,20,1,Tidak,Ya,1,5,5.0,Ya
+33.0,Jakarta,TikTok Shop,Celana,328000,10,1,Tidak,Tidak,0,2,4.0,Tidak
+22.0,Jakarta,Shopee,Kemeja,287000,0,2,Tidak,Ya,0,1,4.0,Ya
+29.0,Tangerang,Shopee,Kemeja,318000,10,2,Tidak,Tidak,1,6,5.0,Ya
+19.0,Tangerang,Shopee,Kaos,198000,30,1,Ya,Tidak,0,2,4.0,Tidak
+21.0,Bekasi,Shopee,Topi,91000,10,1,Tidak,Ya,0,6,5.0,Tidak
+21.0,Bandung,TikTok Shop,Kaos,170000,10,2,Ya,Ya,0,5,5.0,Ya
+29.0,Jakarta,Toko Offline,Kaos,227000,0,2,Ya,Tidak,1,3,5.0,Ya
+20.0,Bekasi,TikTok Shop,Kaos,177000,0,2,Ya,Tidak,1,5,3.0,Tidak
+21.0,Jakarta,TikTok Shop,Kemeja,261000,50,3,Tidak,Ya,0,4,4.0,Ya
+24.0,Jakarta,Shopee,Jaket,415000,0,2,Tidak,Tidak,4,6,4.0,Ya
+31.0,Jakarta,TikTok Shop,Hoodie,373000,50,3,Tidak,Tidak,2,4,5.0,Tidak
+24.0,Jakarta,Shopee,Hoodie,421000,0,2,Tidak,Tidak,3,6,4.0,Tidak
+33.0,Tangerang,TikTok Shop,Topi,165000,30,2,Tidak,Ya,0,1,4.0,Ya
+26.0,Jakarta,Shopee,Topi,145000,10,1,Tidak,Tidak,5,2,5.0,Ya
+23.0,Jakarta,Shopee,Kaos,160000,0,4,Tidak,Tidak,2,6,4.0,Tidak
+30.0,Luar Jabodetabek,Tokopedia,Kemeja,269000,0,4,Ya,Tidak,3,4,4.0,Ya
+21.0,Bandung,Tokopedia,Topi,169000,30,1,Tidak,Tidak,4,3,5.0,Ya
+19.0,Tangerang,Shopee,Kaos,205000,10,4,Tidak,Tidak,1,5,4.0,Ya
+24.0,Bogor,Website,Kaos,146000,0,2,Ya,Tidak,1,4,3.0,Tidak
+16.0,Tangerang,Tokopedia,Hoodie,463000,30,2,Tidak,Tidak,1,5,4.0,Tidak
+18.0,Jakarta,Shopee,Hoodie,426000,20,2,Tidak,Tidak,2,4,4.0,Ya
+20.0,Tangerang,Website,Kemeja,311000,0,3,Tidak,Ya,2,5,4.0,Ya
+24.0,Bandung,Shopee,Tas,187000,0,4,Ya,Ya,4,4,5.0,Ya
+29.0,Luar Jabodetabek,Shopee,Kaos,207000,20,1,Tidak,Ya,2,4,5.0,Ya
+29.0,Jakarta,Tokopedia,Kaos,184000,10,4,Ya,Tidak,2,2,3.0,Ya
+23.0,Bekasi,Shopee,Hoodie,427000,0,4,Ya,Tidak,2,4,4.0,Tidak
+25.0,Luar Jabodetabek,Instagram,Kemeja,284000,20,1,Ya,Ya,2,2,4.0,Ya
+22.0,Luar Jabodetabek,Shopee,Kemeja,263000,0,4,Tidak,Tidak,1,1,2.0,Tidak
+17.0,Jakarta,Website,Jaket,437000,20,2,Tidak,Tidak,1,6,4.0,Tidak
+26.0,Tangerang,Tokopedia,Kaos,224000,0,1,Ya,Tidak,0,2,4.0,Tidak
+20.0,Tangerang,Instagram,Kaos,180000,50,4,Tidak,Ya,2,5,5.0,Ya
+28.0,Luar Jabodetabek,Instagram,Tas,283000,0,4,Tidak,Tidak,0,4,5.0,Ya
+21.0,Bandung,Tokopedia,Kaos,163000,30,3,Ya,Tidak,0,3,4.0,Tidak
+19.0,Luar Jabodetabek,Instagram,Kaos,194000,20,3,Ya,Tidak,3,2,4.0,Ya
+26.0,Luar Jabodetabek,TikTok Shop,Kemeja,361000,0,2,Tidak,Ya,0,2,5.0,Ya
+21.0,Tangerang,Shopee,Kemeja,290000,10,4,Ya,Ya,2,1,3.0,Ya
+18.0,Luar Jabodetabek,Toko Offline,Tas,268000,20,3,Tidak,Tidak,0,1,5.0,Ya
+29.0,Bandung,TikTok Shop,Hoodie,354000,0,3,Ya,Ya,4,4,5.0,Ya
+25.0,Jakarta,TikTok Shop,Hoodie,406000,0,2,Tidak,Ya,1,2,5.0,Ya
+25.0,Tangerang,Toko Offline,Kaos,185000,0,2,Ya,Tidak,0,1,5.0,Ya
+24.0,Luar Jabodetabek,Shopee,Kaos,134000,20,1,Ya,Ya,0,1,5.0,Ya
+21.0,Luar Jabodetabek,Shopee,Kaos,190000,0,1,Ya,Tidak,1,4,4.0,Tidak
+16.0,Bandung,Tokopedia,Jaket,426000,0,2,Tidak,Ya,2,2,4.0,Ya
+21.0,Tangerang,Shopee,Hoodie,435000,20,1,Tidak,Tidak,2,1,5.0,Ya
+22.0,Bekasi,Toko Offline,Kaos,199000,50,1,Tidak,Tidak,1,2,3.0,Ya
+26.0,Luar Jabodetabek,Toko Offline,Celana,330000,0,2,Tidak,Tidak,1,1,4.0,Tidak
+18.0,Jakarta,TikTok Shop,Kaos,147000,10,1,Tidak,Ya,1,1,4.0,Ya
+26.0,Tangerang,TikTok Shop,Hoodie,399000,0,1,Tidak,Ya,1,1,4.0,Ya
+24.0,Bekasi,Shopee,Kaos,160000,50,1,Tidak,Ya,1,1,5.0,Ya
+31.0,Depok,TikTok Shop,Jaket,496000,0,1,Tidak,Tidak,4,1,4.0,Ya
+20.0,Luar Jabodetabek,Shopee,Kaos,202000,10,2,Tidak,Tidak,1,2,4.0,Tidak
+24.0,Luar Jabodetabek,TikTok Shop,Kaos,188000,30,1,Tidak,Tidak,1,4,4.0,Tidak
+25.0,Tangerang,TikTok Shop,Kemeja,286000,20,1,Tidak,Tidak,2,2,5.0,Ya
+27.0,Bekasi,Tokopedia,Celana,334000,0,1,Tidak,Tidak,4,2,5.0,Ya
+30.0,Tangerang,Toko Offline,Kemeja,288000,10,4,Tidak,Ya,3,1,5.0,Ya
+26.0,Jakarta,Shopee,Kemeja,352000,30,3,Tidak,Tidak,2,5,5.0,Ya
+17.0,Depok,Website,Celana,342000,0,2,Tidak,Tidak,1,3,4.0,Tidak
+32.0,Jakarta,Toko Offline,Kemeja,273000,0,1,Tidak,Tidak,3,4,3.0,Tidak
+16.0,Depok,Tokopedia,Kemeja,270000,10,3,Ya,Tidak,1,3,5.0,Ya
+27.0,Bekasi,Tokopedia,Jaket,486000,0,3,Tidak,Tidak,5,4,5.0,Ya
+30.0,Depok,Instagram,Hoodie,403000,30,1,Tidak,Ya,1,3,3.0,Tidak
+21.0,Bandung,Shopee,Tas,276000,30,1,Tidak,Ya,3,5,5.0,Tidak
+24.0,Bogor,Shopee,Celana,284000,0,3,Ya,Ya,1,2,5.0,Ya
+24.0,Bekasi,Website,Kaos,197000,0,3,Tidak,Tidak,1,6,3.0,Tidak
+19.0,Luar Jabodetabek,Instagram,Topi,114000,20,1,Tidak,Tidak,3,6,,Tidak
+26.0,Tangerang,Toko Offline,Kaos,192000,10,2,Tidak,Tidak,0,5,4.0,Tidak
+19.0,Luar Jabodetabek,Shopee,Hoodie,410000,10,4,Tidak,Tidak,2,1,4.0,Ya
+26.0,Jakarta,Instagram,Hoodie,420000,0,2,Tidak,Tidak,0,3,5.0,Ya
+27.0,Bandung,Shopee,Tas,287000,30,4,Tidak,Tidak,2,5,4.0,Tidak
+29.0,Jakarta,Instagram,Celana,332000,20,2,Tidak,Tidak,2,3,4.0,Ya
+31.0,Bogor,TikTok Shop,Jaket,399000,10,1,Tidak,Tidak,0,3,5.0,Tidak
+26.0,Bandung,Instagram,Hoodie,394000,0,3,Tidak,Tidak,4,3,5.0,Ya
+,Jakarta,Instagram,Kaos,221000,20,4,Tidak,Tidak,0,4,4.0,Tidak
+23.0,Luar Jabodetabek,Shopee,Kaos,185000,0,2,Tidak,Tidak,2,4,4.0,Tidak
+24.0,Bogor,Tokopedia,Kaos,203000,10,2,Tidak,Tidak,1,4,4.0,Tidak
+28.0,Depok,Tokopedia,Jaket,451000,0,3,Tidak,Tidak,4,1,5.0,Ya
+28.0,Bekasi,Instagram,Kemeja,289000,0,2,Tidak,Ya,3,6,5.0,Ya
+26.0,Depok,Toko Offline,Jaket,457000,50,2,Ya,Tidak,1,2,4.0,Ya
+24.0,Depok,Shopee,Hoodie,367000,20,4,Tidak,Tidak,0,3,5.0,Tidak
+29.0,Luar Jabodetabek,Instagram,Tas,288000,50,4,Tidak,Tidak,2,2,5.0,Ya
+19.0,Bekasi,Toko Offline,Topi,122000,50,1,Tidak,Tidak,0,7,5.0,Tidak
+21.0,Bekasi,Shopee,Tas,305000,10,1,Ya,Tidak,2,2,3.0,Ya
+25.0,Luar Jabodetabek,TikTok Shop,Topi,132000,10,2,Tidak,Tidak,2,8,5.0,Tidak
+30.0,Luar Jabodetabek,Shopee,Kaos,176000,30,3,Ya,Tidak,2,1,4.0,Ya
+18.0,Tangerang,TikTok Shop,Kaos,169000,0,3,Tidak,Ya,1,5,4.0,Ya
+19.0,Jakarta,Website,Topi,115000,30,3,Tidak,Ya,1,1,4.0,Ya
+,Luar Jabodetabek,Instagram,Kaos,172000,20,4,Tidak,Tidak,3,1,5.0,Ya
+28.0,Bekasi,Instagram,Kaos,188000,50,3,Tidak,Tidak,1,2,4.0,Tidak
+28.0,Depok,Shopee,Hoodie,408000,10,4,Ya,Tidak,2,3,4.0,Ya
+31.0,Bandung,Instagram,Kaos,165000,0,2,Tidak,Tidak,1,6,4.0,Tidak
+35.0,Jakarta,Instagram,Tas,235000,10,4,Tidak,Tidak,1,3,5.0,Ya
+18.0,Luar Jabodetabek,Instagram,Topi,158000,10,4,Tidak,Tidak,2,6,3.0,Tidak
+23.0,Bandung,Website,Topi,211000,30,1,Tidak,Tidak,2,2,4.0,Ya
+21.0,Depok,Toko Offline,Hoodie,430000,20,1,Ya,Tidak,1,1,5.0,Ya
+19.0,Tangerang,Tokopedia,Kemeja,290000,0,4,Ya,Tidak,0,3,5.0,Ya
+24.0,Jakarta,Instagram,Kaos,183000,20,3,Tidak,Ya,1,3,5.0,Ya
+21.0,Bekasi,Shopee,Kaos,193000,0,4,Ya,Tidak,1,3,5.0,Ya
+25.0,Bekasi,Shopee,Topi,143000,10,2,Tidak,Ya,2,6,4.0,Tidak
+22.0,Bandung,Shopee,Kaos,198000,30,3,Ya,Ya,4,2,5.0,Ya
+17.0,Luar Jabodetabek,Tokopedia,Kaos,205000,0,1,Tidak,Ya,1,5,4.0,Tidak
+27.0,Jakarta,Shopee,Kaos,175000,30,1,Ya,Tidak,3,5,4.0,Ya
+27.0,Tangerang,Shopee,Tas,284000,0,2,Tidak,Tidak,4,4,5.0,Ya
+22.0,Tangerang,Tokopedia,Kaos,239000,50,4,Tidak,Tidak,1,2,5.0,Ya
+16.0,Depok,Shopee,Jaket,437000,30,4,Tidak,Tidak,1,5,3.0,Tidak
+16.0,Luar Jabodetabek,Shopee,Hoodie,396000,0,3,Tidak,Ya,2,1,5.0,Ya
+17.0,Bogor,Shopee,Jaket,426000,10,2,Ya,Tidak,0,6,4.0,Tidak
+26.0,Tangerang,Toko Offline,Tas,296000,20,4,Ya,Tidak,4,6,5.0,Ya
+27.0,Luar Jabodetabek,Instagram,Topi,136000,0,3,Tidak,Tidak,1,2,3.0,Tidak
+24.0,Bogor,Instagram,Tas,255000,50,1,Tidak,Tidak,1,5,4.0,Tidak
+24.0,Bandung,Tokopedia,Jaket,458000,0,2,Tidak,Ya,1,4,5.0,Ya
+16.0,Luar Jabodetabek,Toko Offline,Tas,273000,20,2,Tidak,Tidak,0,4,5.0,Ya
+26.0,Bogor,Shopee,Kemeja,285000,0,3,Ya,Tidak,3,7,3.0,Tidak
+21.0,Jakarta,TikTok Shop,Tas,311000,20,1,Tidak,Tidak,0,5,3.0,Tidak
+23.0,Bandung,Instagram,Jaket,482000,0,4,Tidak,Ya,1,3,4.0,Ya
+19.0,Bogor,Tokopedia,Kaos,173000,20,4,Tidak,Tidak,1,2,4.0,Tidak
+16.0,Tangerang,TikTok Shop,Tas,262000,0,1,Ya,Tidak,0,3,5.0,Tidak
+28.0,Tangerang,Instagram,Kaos,191000,0,1,Tidak,Tidak,0,1,4.0,Ya
+26.0,Tangerang,Instagram,Tas,316000,20,1,Tidak,Ya,0,5,4.0,Ya
+19.0,Tangerang,TikTok Shop,Kemeja,284000,20,4,Tidak,Tidak,1,2,4.0,Ya
+16.0,Bekasi,Instagram,Jaket,442000,30,1,Tidak,Tidak,1,2,4.0,Ya
+21.0,Tangerang,Tokopedia,Kaos,158000,30,1,Tidak,Tidak,1,3,5.0,Ya
+28.0,Tangerang,Tokopedia,Kaos,155000,0,1,Tidak,Tidak,1,4,4.0,Tidak
+27.0,Tangerang,Shopee,Tas,248000,0,2,Tidak,Tidak,3,1,4.0,Ya
+24.0,Tangerang,Tokopedia,Kaos,165000,10,2,Tidak,Ya,0,6,4.0,Tidak
+28.0,Depok,Shopee,Hoodie,360000,20,4,Ya,Ya,1,7,3.0,Ya
+26.0,Jakarta,Website,Tas,268000,20,2,Tidak,Tidak,1,3,5.0,Ya
+19.0,Luar Jabodetabek,Toko Offline,Jaket,410000,20,2,Tidak,Tidak,4,1,,Ya
+27.0,Bandung,TikTok Shop,Kemeja,288000,0,1,Tidak,Tidak,0,6,4.0,Tidak
+24.0,Bekasi,Toko Offline,Kaos,147000,30,4,Tidak,Tidak,1,3,5.0,Ya
+20.0,Jakarta,TikTok Shop,Kaos,149000,0,4,Tidak,Tidak,0,4,5.0,Ya
+29.0,Bekasi,Shopee,Hoodie,359000,10,4,Tidak,Ya,3,2,5.0,Ya
+26.0,Luar Jabodetabek,Shopee,Kaos,177000,20,1,Ya,Ya,1,1,5.0,Ya
+17.0,Bandung,TikTok Shop,Topi,193000,0,2,Tidak,Ya,1,3,4.0,Ya
+28.0,Luar Jabodetabek,Website,Kemeja,341000,0,2,Tidak,Tidak,2,4,4.0,Ya
+25.0,Depok,Tokopedia,Kaos,193000,30,4,Tidak,Ya,3,6,5.0,Ya
+22.0,Luar Jabodetabek,Instagram,Kaos,179000,10,4,Ya,Tidak,2,5,3.0,Tidak
+22.0,Tangerang,Toko Offline,Celana,304000,10,3,Tidak,Tidak,1,1,3.0,Ya
+19.0,Tangerang,Website,Jaket,487000,0,4,Tidak,Ya,2,4,4.0,Ya
+17.0,Bogor,Toko Offline,Kemeja,278000,20,1,Tidak,Tidak,2,4,3.0,Tidak
+25.0,Bandung,TikTok Shop,Topi,197000,0,3,Ya,Tidak,3,1,5.0,Ya
+26.0,Jakarta,Website,Kaos,198000,20,4,Ya,Tidak,0,2,5.0,Ya
+22.0,Luar Jabodetabek,Toko Offline,Hoodie,411000,0,1,Tidak,Tidak,0,3,3.0,Tidak
+25.0,Bogor,Shopee,Kemeja,309000,20,2,Tidak,Tidak,4,3,4.0,Ya
+22.0,Bandung,Tokopedia,Kemeja,324000,20,4,Tidak,Tidak,2,4,4.0,Ya
+22.0,Luar Jabodetabek,Shopee,Kaos,110000,0,1,Tidak,Tidak,1,3,4.0,Tidak
+26.0,Bogor,Tokopedia,Kaos,171000,0,2,Tidak,Tidak,1,4,4.0,Tidak
+26.0,Jakarta,Website,Kaos,226000,20,2,Tidak,Tidak,1,4,4.0,Ya
+31.0,Depok,Instagram,Celana,335000,0,4,Tidak,Tidak,4,7,4.0,Tidak
+22.0,Bogor,Website,Kemeja,304000,0,4,Tidak,Tidak,0,4,5.0,Ya
+26.0,Bandung,Toko Offline,Kaos,148000,0,1,Ya,Tidak,3,6,4.0,Ya
+23.0,Bekasi,Instagram,Topi,154000,10,2,Tidak,Ya,3,3,5.0,Ya
+25.0,Luar Jabodetabek,Tokopedia,Kemeja,321000,0,2,Tidak,Tidak,1,5,4.0,Tidak
+30.0,Bogor,Instagram,Kaos,164000,30,3,Tidak,Ya,3,5,3.0,Ya
+26.0,Luar Jabodetabek,Tokopedia,Kemeja,271000,0,3,Ya,Ya,3,2,4.0,Ya
+20.0,Bandung,Tokopedia,Tas,268000,0,2,Tidak,Ya,3,1,4.0,Ya
+22.0,Bekasi,Website,Kaos,162000,0,3,Tidak,Ya,1,1,4.0,Ya
+21.0,Jakarta,Toko Offline,Kaos,188000,0,3,Tidak,Tidak,0,6,5.0,Tidak
+23.0,Tangerang,Instagram,Kaos,165000,0,4,Tidak,Tidak,3,5,4.0,Ya
+21.0,Tangerang,Website,Kemeja,313000,0,4,Tidak,Ya,1,1,4.0,Ya
+22.0,Bekasi,Instagram,Jaket,512000,10,1,Ya,Ya,3,5,4.0,Ya
+23.0,Bandung,Tokopedia,Hoodie,442000,0,2,Ya,Tidak,2,1,5.0,Ya
+25.0,Jakarta,Instagram,Tas,294000,20,4,Ya,Tidak,6,5,3.0,Ya
+20.0,Luar Jabodetabek,TikTok Shop,Kaos,184000,0,4,Tidak,Tidak,2,1,4.0,Ya
+24.0,Jakarta,Shopee,Kaos,184000,20,2,Tidak,Tidak,8,1,4.0,Ya
+24.0,Depok,Website,Kaos,170000,0,2,Tidak,Ya,2,3,4.0,Ya
+28.0,Tangerang,Shopee,Celana,356000,10,4,Tidak,Tidak,3,6,4.0,Tidak
+25.0,Luar Jabodetabek,Instagram,Kemeja,291000,30,1,Tidak,Tidak,0,4,4.0,Tidak
+26.0,Jakarta,TikTok Shop,Topi,107000,0,1,Ya,Tidak,4,5,5.0,Ya
+25.0,Tangerang,Tokopedia,Kemeja,344000,0,4,Tidak,Tidak,0,2,4.0,Ya
+29.0,Bogor,Tokopedia,Hoodie,388000,30,1,Ya,Tidak,5,5,5.0,Ya
+23.0,Bogor,Tokopedia,Hoodie,373000,20,2,Ya,Tidak,2,3,5.0,Ya
+17.0,Jakarta,TikTok Shop,Jaket,451000,0,3,Tidak,Tidak,0,1,5.0,Ya
+26.0,Depok,Shopee,Tas,285000,50,4,Ya,Tidak,0,4,4.0,Ya
+19.0,Bekasi,Website,Hoodie,417000,0,3,Ya,Tidak,0,1,5.0,Ya
+16.0,Bandung,Toko Offline,Jaket,440000,30,4,Tidak,Tidak,0,3,5.0,Ya
+26.0,Depok,Website,Topi,166000,10,4,Tidak,Tidak,1,4,4.0,Ya
+24.0,Jakarta,Shopee,Hoodie,407000,0,3,Tidak,Tidak,3,3,5.0,Ya
+25.0,Luar Jabodetabek,Shopee,Kaos,188000,20,3,Tidak,Tidak,4,4,5.0,Ya
+26.0,Bandung,Instagram,Celana,335000,20,2,Ya,Tidak,1,6,4.0,Ya
+23.0,Jakarta,Website,Kemeja,310000,30,1,Tidak,Ya,1,3,4.0,Ya
+29.0,Bogor,Toko Offline,Tas,288000,0,2,Tidak,Ya,1,3,4.0,Tidak
+24.0,Tangerang,Website,Kaos,142000,20,3,Tidak,Ya,0,2,5.0,Ya
+22.0,Bandung,Instagram,Topi,115000,20,4,Tidak,Ya,2,4,4.0,Ya
+24.0,Bogor,Instagram,Kaos,150000,30,3,Tidak,Tidak,1,5,5.0,Ya
+16.0,Bekasi,Website,Hoodie,413000,0,2,Ya,Tidak,1,4,5.0,Ya
+26.0,Tangerang,Tokopedia,Hoodie,397000,10,1,Ya,Tidak,1,6,4.0,Tidak
+17.0,Tangerang,Website,Celana,305000,0,2,Tidak,Tidak,0,7,4.0,Tidak
+26.0,Jakarta,Website,Kaos,192000,30,3,Tidak,Tidak,3,1,4.0,Ya
+23.0,Bekasi,Shopee,Celana,374000,0,2,Ya,Tidak,3,3,5.0,Ya
+24.0,Bogor,Tokopedia,Jaket,461000,30,2,Tidak,Tidak,2,2,,Ya
+20.0,Tangerang,Tokopedia,Celana,313000,10,4,Ya,Ya,3,1,4.0,Ya
+32.0,Jakarta,Website,Kaos,226000,0,2,Tidak,Tidak,0,7,4.0,Tidak
+16.0,Bandung,Instagram,Kaos,155000,0,1,Tidak,Tidak,1,7,4.0,Tidak
+,Jakarta,Tokopedia,Topi,166000,0,4,Tidak,Ya,1,3,4.0,Ya
+19.0,Luar Jabodetabek,TikTok Shop,Kemeja,329000,20,1,Tidak,Tidak,0,1,4.0,Ya
+16.0,Bandung,TikTok Shop,Hoodie,421000,0,2,Tidak,Tidak,0,3,4.0,Ya
+31.0,Jakarta,Shopee,Kaos,181000,0,4,Tidak,Tidak,2,1,4.0,Ya
+25.0,Luar Jabodetabek,Toko Offline,Topi,143000,0,4,Tidak,Ya,3,4,5.0,Ya
+35.0,Bandung,TikTok Shop,Kaos,184000,0,1,Tidak,Tidak,2,6,5.0,Ya
+,Luar Jabodetabek,Instagram,Celana,333000,10,1,Tidak,Tidak,0,3,4.0,Tidak
+26.0,Tangerang,Shopee,Tas,286000,30,1,Ya,Ya,0,6,3.0,Tidak
+26.0,Jakarta,Instagram,Kaos,176000,50,4,Tidak,Tidak,1,3,3.0,Tidak
+18.0,Depok,Website,Celana,379000,30,1,Tidak,Tidak,2,5,5.0,Ya
+18.0,Jakarta,Instagram,Celana,277000,0,2,Ya,Tidak,1,1,,Ya
+31.0,Depok,Shopee,Kaos,231000,0,3,Ya,Tidak,3,1,5.0,Ya
+28.0,Bekasi,Instagram,Celana,316000,0,3,Ya,Ya,3,1,4.0,Ya
+20.0,Luar Jabodetabek,Toko Offline,Celana,335000,20,1,Tidak,Tidak,1,3,4.0,Ya
+24.0,Bandung,Shopee,Kaos,209000,10,3,Tidak,Tidak,0,5,5.0,Tidak
+25.0,Tangerang,Tokopedia,Jaket,419000,20,4,Tidak,Tidak,2,2,4.0,Tidak
+30.0,Depok,Website,Hoodie,432000,0,4,Tidak,Tidak,0,3,5.0,Ya
+26.0,Tangerang,Shopee,Kaos,175000,0,1,Ya,Tidak,0,3,4.0,Tidak
+21.0,Depok,TikTok Shop,Jaket,442000,20,2,Tidak,Ya,2,4,5.0,Ya
+28.0,Jakarta,Shopee,Hoodie,396000,50,1,Ya,Ya,0,4,3.0,Tidak
+21.0,Bandung,Instagram,Kaos,217000,0,4,Tidak,Tidak,2,6,5.0,Tidak
+27.0,Tangerang,Tokopedia,Tas,274000,0,4,Ya,Ya,1,4,5.0,Ya
+21.0,Bekasi,Instagram,Kaos,214000,20,2,Tidak,Ya,1,5,4.0,Ya
+16.0,Bandung,Shopee,Kaos,170000,20,3,Tidak,Ya,1,4,5.0,Ya
+32.0,Jakarta,Toko Offline,Celana,339000,10,3,Tidak,Tidak,3,5,3.0,Tidak
+20.0,Tangerang,Website,Kaos,206000,0,4,Tidak,Tidak,0,6,5.0,Tidak
+29.0,Jakarta,Tokopedia,Hoodie,449000,20,1,Tidak,Tidak,3,1,3.0,Ya
+27.0,Depok,Instagram,Celana,319000,20,3,Tidak,Tidak,0,4,2.0,Tidak
+21.0,Jakarta,Shopee,Tas,286000,10,3,Tidak,Tidak,2,9,3.0,Tidak
+18.0,Tangerang,Instagram,Kaos,190000,10,3,Tidak,Tidak,0,1,5.0,Ya
+33.0,Jakarta,Instagram,Tas,276000,0,2,Tidak,Tidak,1,3,5.0,Ya
+25.0,Tangerang,Website,Kaos,146000,30,4,Tidak,Ya,1,6,5.0,Ya
+30.0,Bogor,Shopee,Jaket,488000,10,2,Ya,Tidak,0,3,4.0,Tidak
+26.0,Jakarta,Website,Kaos,226000,0,4,Tidak,Tidak,0,3,4.0,Ya
+29.0,Jakarta,Tokopedia,Kaos,150000,0,4,Tidak,Tidak,1,3,4.0,Tidak
+25.0,Jakarta,Website,Tas,307000,0,1,Tidak,Tidak,0,3,4.0,Tidak
+18.0,Jakarta,TikTok Shop,Kaos,178000,10,2,Tidak,Tidak,3,3,5.0,Ya
+20.0,Bogor,Tokopedia,Hoodie,378000,20,1,Tidak,Tidak,1,4,4.0,Ya
+26.0,Bogor,Instagram,Jaket,486000,20,4,Ya,Tidak,1,8,3.0,Tidak
+18.0,Depok,Toko Offline,Tas,284000,0,1,Tidak,Tidak,0,6,4.0,Tidak
+22.0,Bandung,Instagram,Jaket,489000,20,4,Tidak,Ya,0,4,5.0,Ya
+24.0,Jakarta,Toko Offline,Celana,338000,20,1,Tidak,Tidak,4,3,5.0,Ya
+29.0,Jakarta,Tokopedia,Jaket,483000,0,1,Tidak,Tidak,2,4,4.0,Tidak
+32.0,Depok,TikTok Shop,Kaos,219000,50,3,Tidak,Tidak,2,3,4.0,Ya
+16.0,Luar Jabodetabek,Instagram,Jaket,451000,20,1,Tidak,Ya,1,1,4.0,Ya
+26.0,Bekasi,Website,Kaos,172000,0,3,Tidak,Tidak,3,7,5.0,Ya
+33.0,Jakarta,Instagram,Hoodie,425000,20,2,Tidak,Tidak,1,6,5.0,Tidak
+18.0,Tangerang,Shopee,Topi,156000,10,1,Tidak,Tidak,3,3,5.0,Ya
+19.0,Jakarta,Toko Offline,Kaos,157000,0,3,Tidak,Tidak,1,3,5.0,Ya
+30.0,Luar Jabodetabek,Shopee,Kaos,144000,0,3,Tidak,Ya,2,1,4.0,Ya
+25.0,Jakarta,Tokopedia,Topi,135000,30,3,Ya,Tidak,2,3,4.0,Ya
+21.0,Jakarta,Instagram,Tas,217000,10,4,Tidak,Ya,1,3,5.0,Ya
+25.0,Jakarta,Tokopedia,Kaos,179000,0,2,Tidak,Tidak,3,2,4.0,Ya
+28.0,Tangerang,Website,Hoodie,375000,50,3,Tidak,Ya,3,3,3.0,Ya
+25.0,Depok,Instagram,Kemeja,251000,0,4,Ya,Tidak,1,5,5.0,Ya
+26.0,Tangerang,Toko Offline,Celana,332000,10,2,Tidak,Tidak,2,2,3.0,Ya
+25.0,Tangerang,Website,Topi,152000,0,2,Tidak,Tidak,1,2,5.0,Ya
+26.0,Tangerang,Instagram,Hoodie,391000,20,3,Tidak,Tidak,3,5,4.0,Ya
+25.0,Tangerang,Instagram,Kemeja,315000,30,4,Tidak,Tidak,2,2,5.0,Ya
+26.0,Jakarta,Instagram,Kaos,163000,0,1,Tidak,Ya,2,4,5.0,Ya
+24.0,Depok,Tokopedia,Hoodie,389000,20,2,Tidak,Tidak,1,5,5.0,Tidak
+30.0,Tangerang,Website,Kemeja,299000,30,1,Tidak,Tidak,3,2,4.0,Ya
+23.0,Depok,TikTok Shop,Tas,268000,0,2,Tidak,Tidak,3,7,2.0,Tidak
+22.0,Tangerang,Shopee,Kemeja,296000,10,2,Tidak,Tidak,0,4,5.0,Tidak
+18.0,Luar Jabodetabek,Website,Jaket,464000,0,1,Ya,Tidak,3,1,3.0,Ya
+21.0,Tangerang,Website,Tas,264000,10,2,Tidak,Tidak,2,5,5.0,Ya
+25.0,Jakarta,Website,Kaos,182000,30,4,Tidak,Ya,2,4,4.0,Ya
+24.0,Tangerang,Tokopedia,Kaos,217000,0,3,Tidak,Tidak,3,2,3.0,Tidak
+27.0,Depok,Shopee,Kaos,189000,0,3,Ya,Tidak,2,5,3.0,Tidak
+19.0,Luar Jabodetabek,Tokopedia,Kaos,201000,50,2,Tidak,Ya,3,4,4.0,Ya
+21.0,Jakarta,Toko Offline,Jaket,432000,10,2,Tidak,Tidak,2,5,4.0,Tidak
+16.0,Luar Jabodetabek,Website,Hoodie,417000,20,4,Tidak,Ya,2,6,3.0,Ya
+23.0,Luar Jabodetabek,Instagram,Topi,135000,30,2,Ya,Ya,3,5,5.0,Ya
+29.0,Bekasi,Shopee,Kaos,152000,0,3,Tidak,Tidak,2,6,4.0,Tidak
+27.0,Bandung,Website,Kaos,129000,50,2,Tidak,Tidak,1,1,5.0,Ya
+22.0,Jakarta,Website,Topi,110000,50,2,Tidak,Ya,1,2,5.0,Ya
+,Luar Jabodetabek,Shopee,Celana,356000,10,1,Tidak,Tidak,3,2,4.0,Ya
+26.0,Jakarta,Website,Topi,165000,30,2,Tidak,Tidak,3,4,5.0,Ya
+20.0,Luar Jabodetabek,Shopee,Topi,144000,10,3,Tidak,Tidak,2,2,5.0,Ya
+20.0,Tangerang,Tokopedia,Tas,276000,30,2,Ya,Ya,2,4,4.0,Ya
+20.0,Luar Jabodetabek,Tokopedia,Kaos,171000,0,3,Tidak,Ya,0,6,5.0,Tidak
+26.0,Jakarta,Instagram,Celana,333000,20,3,Tidak,Ya,2,4,3.0,Tidak
+27.0,Bogor,Instagram,Tas,267000,0,4,Tidak,Tidak,1,8,4.0,Tidak
+26.0,Bandung,Tokopedia,Hoodie,401000,10,3,Ya,Tidak,2,3,5.0,Ya
+23.0,Jakarta,Instagram,Kaos,194000,0,4,Tidak,Tidak,1,5,5.0,Tidak
+33.0,Tangerang,Tokopedia,Kaos,170000,50,4,Tidak,Tidak,1,5,4.0,Tidak
+,Luar Jabodetabek,Toko Offline,Topi,160000,10,1,Tidak,Tidak,1,2,5.0,Ya
+27.0,Luar Jabodetabek,Instagram,Kaos,215000,20,4,Ya,Tidak,2,5,5.0,Ya
+25.0,Jakarta,Tokopedia,Kaos,187000,20,3,Tidak,Tidak,0,4,4.0,Tidak
+29.0,Luar Jabodetabek,Instagram,Kaos,234000,0,1,Ya,Tidak,2,2,5.0,Ya
+16.0,Tangerang,Instagram,Celana,352000,0,4,Tidak,Tidak,1,3,4.0,Ya
+27.0,Tangerang,Tokopedia,Jaket,449000,0,2,Tidak,Ya,2,5,5.0,Ya
+23.0,Depok,Instagram,Kaos,168000,30,4,Tidak,Ya,1,5,2.0,Tidak
+24.0,Luar Jabodetabek,Instagram,Kemeja,279000,10,2,Tidak,Tidak,5,1,5.0,Ya
+19.0,Tangerang,Instagram,Celana,292000,10,1,Tidak,Tidak,2,3,4.0,Ya
+21.0,Bekasi,Shopee,Hoodie,375000,20,3,Ya,Tidak,1,2,4.0,Ya
+30.0,Jakarta,TikTok Shop,Hoodie,392000,30,4,Ya,Tidak,3,5,3.0,Ya
+28.0,Bandung,Instagram,Kaos,174000,30,1,Tidak,Tidak,0,4,3.0,Tidak
+18.0,Bogor,TikTok Shop,Hoodie,391000,50,2,Tidak,Tidak,2,2,3.0,Ya
+25.0,Luar Jabodetabek,TikTok Shop,Topi,197000,10,3,Tidak,Ya,3,5,5.0,Ya
+22.0,Bogor,Instagram,Hoodie,374000,50,1,Tidak,Tidak,2,3,5.0,Ya
+29.0,Bogor,Website,Kaos,206000,0,2,Tidak,Tidak,3,5,4.0,Ya
+26.0,Bogor,Website,Jaket,429000,0,1,Tidak,Ya,0,4,4.0,Tidak
+28.0,Depok,Instagram,Kemeja,242000,0,3,Tidak,Ya,0,1,5.0,Ya
+24.0,Bogor,Shopee,Jaket,429000,0,4,Tidak,Tidak,1,2,3.0,Tidak
+25.0,Tangerang,Website,Kaos,216000,0,4,Tidak,Tidak,0,5,4.0,Tidak
+21.0,Luar Jabodetabek,Tokopedia,Hoodie,401000,0,3,Tidak,Tidak,2,6,4.0,Tidak
+17.0,Jakarta,Instagram,Celana,300000,20,3,Tidak,Tidak,0,3,5.0,Tidak
+22.0,Tangerang,Website,Topi,193000,0,3,Ya,Tidak,2,4,5.0,Ya
+30.0,Depok,Toko Offline,Topi,118000,30,1,Tidak,Ya,1,4,4.0,Tidak
+31.0,Depok,TikTok Shop,Kaos,230000,30,4,Tidak,Tidak,2,3,4.0,Ya
+20.0,Jakarta,Toko Offline,Topi,155000,30,1,Tidak,Ya,0,3,3.0,Tidak
+20.0,Depok,Shopee,Kaos,211000,10,1,Tidak,Tidak,1,5,5.0,Tidak
+21.0,Bogor,Instagram,Topi,161000,20,4,Ya,Tidak,5,5,3.0,Ya
+20.0,Depok,Shopee,Kaos,161000,0,1,Ya,Tidak,9,4,4.0,Ya
+19.0,Bandung,TikTok Shop,Kaos,197000,10,4,Tidak,Tidak,0,2,4.0,Tidak
+21.0,Tangerang,Instagram,Kaos,164000,50,1,Ya,Tidak,1,4,4.0,Ya
+27.0,Bekasi,TikTok Shop,Jaket,441000,30,2,Ya,Ya,0,4,4.0,Ya
+28.0,Luar Jabodetabek,Shopee,Kaos,180000,20,4,Tidak,Tidak,1,2,4.0,Tidak
+32.0,Luar Jabodetabek,Toko Offline,Kaos,205000,0,4,Tidak,Ya,1,1,5.0,Ya
+23.0,Jakarta,Instagram,Hoodie,368000,30,3,Ya,Tidak,1,2,5.0,Ya
+16.0,Jakarta,Website,Celana,313000,0,3,Ya,Tidak,0,4,5.0,Ya
+21.0,Bogor,Shopee,Celana,353000,10,1,Tidak,Tidak,0,4,2.0,Tidak
+19.0,Tangerang,Tokopedia,Kaos,189000,0,4,Tidak,Tidak,2,4,3.0,Tidak
+22.0,Depok,TikTok Shop,Kaos,155000,0,2,Ya,Tidak,0,5,5.0,Tidak
+21.0,Bekasi,Instagram,Kemeja,274000,0,2,Tidak,Tidak,2,3,3.0,Tidak
+29.0,Tangerang,Shopee,Kaos,172000,30,3,Tidak,Ya,1,4,,Ya
+20.0,Bandung,TikTok Shop,Topi,137000,0,2,Tidak,Tidak,3,5,4.0,Tidak
+24.0,Luar Jabodetabek,TikTok Shop,Jaket,468000,0,4,Tidak,Tidak,4,5,5.0,Ya
+33.0,Jakarta,Instagram,Topi,177000,50,2,Tidak,Tidak,4,4,5.0,Ya
+24.0,Jakarta,Shopee,Hoodie,390000,0,1,Tidak,Tidak,0,3,4.0,Tidak
+16.0,Jakarta,TikTok Shop,Kemeja,298000,20,3,Tidak,Ya,2,3,4.0,Ya
+28.0,Luar Jabodetabek,TikTok Shop,Hoodie,410000,30,3,Tidak,Ya,2,4,5.0,Ya
+26.0,Jakarta,Tokopedia,Kemeja,326000,0,1,Tidak,Tidak,1,5,4.0,Tidak
+27.0,Tangerang,Shopee,Kaos,151000,0,4,Tidak,Ya,2,4,3.0,Tidak
+27.0,Bogor,Toko Offline,Kaos,167000,10,4,Tidak,Tidak,0,5,4.0,Tidak
+19.0,Bekasi,Shopee,Tas,282000,0,3,Tidak,Tidak,2,3,5.0,Ya
+19.0,Tangerang,Tokopedia,Kaos,188000,20,2,Ya,Ya,2,4,4.0,Ya
+25.0,Luar Jabodetabek,Tokopedia,Hoodie,413000,30,4,Tidak,Ya,2,1,4.0,Ya
+16.0,Depok,Shopee,Hoodie,430000,20,1,Ya,Tidak,2,3,5.0,Ya
+20.0,Tangerang,Tokopedia,Topi,125000,0,3,Tidak,Ya,2,4,4.0,Tidak
+29.0,Jakarta,Website,Jaket,450000,10,3,Tidak,Ya,1,4,5.0,Ya
+18.0,Luar Jabodetabek,Instagram,Tas,288000,10,2,Ya,Tidak,1,8,4.0,Tidak
+26.0,Bandung,Shopee,Kemeja,300000,20,2,Tidak,Tidak,2,5,4.0,Tidak
+29.0,Tangerang,Tokopedia,Kemeja,325000,10,2,Tidak,Ya,1,4,4.0,Ya
+24.0,Jakarta,TikTok Shop,Hoodie,410000,50,2,Tidak,Tidak,3,1,4.0,Ya
+22.0,Bekasi,Tokopedia,Tas,282000,0,1,Tidak,Ya,0,3,5.0,Tidak
+30.0,Luar Jabodetabek,Tokopedia,Hoodie,397000,30,2,Ya,Tidak,2,5,3.0,Ya
+17.0,Bogor,Toko Offline,Hoodie,414000,20,3,Tidak,Tidak,0,1,4.0,Ya
+32.0,Bekasi,Tokopedia,Tas,293000,0,3,Tidak,Tidak,4,4,3.0,Tidak
+20.0,Jakarta,Website,Jaket,440000,20,4,Tidak,Ya,1,3,4.0,Ya
+24.0,Tangerang,TikTok Shop,Kemeja,289000,0,1,Ya,Ya,2,1,4.0,Ya
+19.0,Bekasi,TikTok Shop,Jaket,445000,20,2,Ya,Tidak,0,4,5.0,Ya
+19.0,Bandung,Toko Offline,Jaket,469000,10,1,Tidak,Tidak,1,5,5.0,Ya
+29.0,Bogor,Shopee,Hoodie,380000,0,4,Tidak,Tidak,0,2,3.0,Tidak
+24.0,Bekasi,TikTok Shop,Topi,166000,10,1,Tidak,Ya,4,4,5.0,Ya
+26.0,Luar Jabodetabek,TikTok Shop,Kaos,143000,20,1,Tidak,Tidak,1,3,5.0,Ya
+18.0,Luar Jabodetabek,Tokopedia,Tas,301000,20,4,Tidak,Tidak,2,4,5.0,Ya
+22.0,Jakarta,Tokopedia,Kemeja,349000,30,1,Tidak,Tidak,2,2,4.0,Ya
+18.0,Tangerang,Tokopedia,Jaket,458000,30,2,Tidak,Ya,1,1,3.0,Tidak
+24.0,Tangerang,Instagram,Kaos,184000,30,3,Tidak,Ya,1,5,2.0,Tidak
+26.0,Tangerang,TikTok Shop,Kaos,203000,0,2,Tidak,Ya,3,4,4.0,Ya
+26.0,Luar Jabodetabek,Instagram,Topi,145000,0,1,Tidak,Tidak,4,3,5.0,Ya
+26.0,Luar Jabodetabek,Instagram,Kaos,201000,10,1,Tidak,Tidak,2,3,5.0,Ya
