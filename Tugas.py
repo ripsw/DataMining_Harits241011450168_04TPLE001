@@ -10,7 +10,6 @@ import pandas as pd
 import matplotlib.pyplot as plt
 from sklearn.preprocessing import LabelEncoder
 
-# Pastikan file CSV berada di folder yang sama dengan file Python ini.
 PATH_CSV = "dataset_brand_fashion_lokal.csv"
 
 # 1. MEMBACA DATASET
@@ -88,7 +87,6 @@ print(f"\nTotal sel kosong : {total_null}")
 print(f"Persentase sel kosong dari seluruh sel : {persen_total_null:.2f}%")
 
 # 5. ANALISIS NILAI NOL PADA KOLOM NUMERIK
-# Nilai 0 belum tentu salah; maknanya bergantung pada kolom.
 data_zero = []
 for kolom in kolom_numerik:
     jumlah_zero = int((df[kolom] == 0).sum())
@@ -133,8 +131,6 @@ print("\nRingkasan kualitas data disimpan ke:")
 print("ringkasan_kualitas_brand_fashion.csv")
 
 # 8. CONTOH PENGGUNAAN SCIKIT-LEARN
-# LabelEncoder mengubah kategori menjadi angka untuk kebutuhan pemrosesan.
-# Data asli df tidak diubah.
 df_encoded = df.copy()
 encoder = LabelEncoder()
 
@@ -184,7 +180,6 @@ if kolom_numerik:
     plt.show()
 
 # Grafik 5: distribusi kategori untuk beberapa kolom kategorikal
-# Maksimal 10 kategori ditampilkan agar grafik tetap terbaca.
 for kolom in kolom_kategorikal:
     frekuensi = df[kolom].value_counts().head(10)
     plt.figure(figsize=(8, 5))
